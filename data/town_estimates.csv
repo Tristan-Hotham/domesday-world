@@ -1,0 +1,74 @@
+placeId,name,county,households_recorded,dwellings_drawn,waste_dwellings_drawn,basis
+1266,{Alneterne},Suffolk,104.0,80,0,"sum of the houses, messuages, sites and burgesses its borough entries count for 1086 (automatic)"
+2256,Arundel,Sussex,4.0,14,0,the burgesses and sites counted
+4551,Barnstaple,Devon,57.0,66,36,"""40 burgesses within the Borough, 9 outside"" and 17 of the bishop and Baldwin; ""23 houses destroyed"" and 13 more"
+5086,Bath,Somerset,178.0,178,6,"""64 burgesses"", ""90 burgesses"" and 24 others; ""6 unoccupied houses"""
+5586,Bedford,Bedfordshire,,57,0,the burgesses and houses counted
+7916,Bodmin,Cornwall,11.0,68,0,"""68 houses"""
+9891,Bridport,Dorset,,100,0,"""120 houses"" before 1066; ""now there are 100"""
+10101,Bristol,Gloucestershire,105.0,52,0,the households counted at Barton by Bristol
+11031,Buckingham,Buckinghamshire,82.0,52,0,26 burgesses and 26 more of the barons
+12801,Cambridge,Cambridgeshire,19.0,99,27,"the houses and messuages of its wards, summed; ""27 houses have been destroyed for the castle"""
+12946,Canterbury,Kent,309.0,275,0,"""19 burgesses who pay tribute"", ""212 burgesses over whom the King has full jurisdiction"" and the Archbishop's ""12 burgesses and 32 messuages"""
+14681,Chester,Cheshire,,226,205,"""431 houses"" paying tax before 1066; when Earl Hugh acquired it ""there were 205 houses less"", and now ""as many as he found"""
+14851,Chichester,Sussex,,157,0,"""100 sites less 2 1/2"" before 1066 and ""60 more houses than there were before"""
+16666,Colchester,Essex,14.0,150,0,Colchester's burgesses' houses are listed one by one in Little Domesday; drawn from the households and houses counted
+20101,Derby,Derbyshire,389.0,140,103,"""100 burgesses"" and 40 lesser burgesses; ""103 messuages"" waste"
+20741,Dorchester,Dorset,223.0,88,84,"""172 houses"" before 1066; ""now there are 88"""
+20841,Dover,Kent,,32,0,"the houses counted (""29 messuages whose customary dues the King has lost"")"
+21266,Droitwich,Worcestershire,89.0,92,0,"the burgesses counted among the manors with salt-houses, summed"
+21651,Dunwich,Suffolk,262.0,236,0,236 burgesses
+23956,Exeter,Devon,,285,48,"the King has ""300 houses less 15"" paying customary dues; ""48 houses destroyed"" since the King came"
+25436,Fordwich,Kent,6.0,79,0,"""73 messuages"" and 6 burgesses"
+26981,Gloucester,Gloucestershire,4.0,40,30,"""16 houses"" where the castle is sited ""which do not exist now"" and ""14 houses ... destroyed""; occupied houses from those counted"
+27481,Grantham,Lincolnshire,183.0,111,0,"""111 burgesses"""
+28036,Guildford,Surrey,,75,0,"""75 sites, whereon dwell 175 men"""
+30106,Hastings,Sussex,,120,0,the burgesses and houses counted
+31321,Hereford,Herefordshire,39.0,130,0,"""103 men dwelling inside and outside the wall"" before 1066, ""27 burgesses"" of Earl Harold and the bishop's 60 messuages found by Bishop Robert; an estimate"
+31391,Hertford,Hertfordshire,164.0,146,0,"""146 burgesses"""
+34101,Huntingdon,Huntingdonshire,431.0,256,132,"""116 burgesses"" and ""140 burgesses"" in its quarters; 60, 8 and 44 ""unoccupied messuages"" and 20 on the castle site"
+34616,Ilchester,Somerset,,127,0,the burgesses and houses counted
+35016,Ipswich,Suffolk,110.0,92,328,"""328 messuages"" laid waste; the burgesses who remain are drawn from the houses and burgesses counted"
+38576,Leicester,Leicestershire,71.0,371,4,"the houses of the King and barons, listed one by one and summed (""4 unoccupied houses"")"
+39036,Lewes,Sussex,127.0,148,20,"the burgesses and sites counted; ""20 uninhabited"" messuages"
+39271,Lincoln,Lincolnshire,,760,240,"""970 inhabited messuages before 1066""; ""166 were destroyed because of the castle; the remaining 74 are unoccupied""; ""760 are now inhabited"""
+40216,Louth,Lincolnshire,122.0,80,0,"""80 burgesses"""
+40221,Louth,Lincolnshire,,80,0,"""80 burgesses"""
+41031,Maldon,Essex,6.0,180,18,about 180 houses; 18 waste
+41036,Maldon,Essex,32.0,180,18,about 180 houses; 18 waste
+41066,Malmesbury,Wiltshire,14.0,40,31,"""26 inhabited messuages"" of the King and others of the abbots; ""25 messuages ... which do not pay tax any more than waste land"" and 6 unoccupied"
+41586,Marlborough,Wiltshire,,0,0,the burgesses and houses counted
+45011,Newark,Nottinghamshire,117.0,56,0,"""56 burgesses"""
+45961,Northampton,Northamptonshire,100.0,227,0,"""60 burgesses"" before 1066, ""40 burgesses in the new Borough"" and the houses of the barons, summed"
+46346,Norwich,Norfolk,1829.0,1145,297,"""665 English burgesses"" and ""480 smallholders who, because of their poverty, pay no customary dues""; 9, 17 and 190 empty messuages and 81 taken by the castle"
+46381,Nottingham,Nottinghamshire,231.0,173,0,"""173 burgesses"" (with 19 smallholders) and houses held by lords"
+47926,Oxford,Oxfordshire,18.0,243,478,"""243 houses which pay tax"" and ""500 houses less 22 so derelict and destroyed that they cannot pay tax"""
+49026,Pevensey,Sussex,129.0,129,0,"""60 burgesses"" of the Count and those of the monks and others, summed"
+51341,Reading,Berkshire,102.0,58,0,"""28 sites"" and 30 more"
+51646,Rhuddlan,Cheshire,41.0,18,0,"""18 burgesses"""
+52171,Rochester,Kent,,80,0,"""80 messuages"""
+52451,Romney,Kent,50.0,50,0,"""50 burgesses in the Borough of ROMNEY"""
+53361,St Albans,Hertfordshire,91.0,46,0,"""46 burgesses"""
+53851,Sandwich,Kent,,339,0,"""307 habitable messuages"" and the Archbishop's ""32 messuages"""
+54876,Shaftesbury,Dorset,151.0,177,58,"""66 houses"" and ""111 houses"" now; ""38 houses have been destroyed"" and ""20 empty messuages"""
+55926,Shrewsbury,Shropshire,25.0,200,51,"""252 houses"" before 1066; 51 messuages destroyed for the castle and 50 others waste"
+57216,Southampton,Hampshire,96.0,96,0,"the houses and men counted, summed"
+57661,Stafford,Staffordshire,43.0,156,8,"the King's ""18 burgesses"" and the messuages of the earls and barons, summed; ""8 unoccupied messuages"""
+57871,Stamford,Lincolnshire,,310,5,141 messuages in the King's part and others held by lords; about 310 in all
+58786,Steyning,Sussex,328.0,123,0,123 burgesses
+60361,Sudbury,Suffolk,127.0,123,0,"""63 burgesses who dwell at the hall"", ""55 burgesses in lordship"" and 5 in Essex"
+61471,Tamworth,Staffordshire,,26,0,the burgesses and houses counted
+61731,Taunton,Somerset,459.0,64,0,"""64 burgesses"""
+62146,Thetford,Norfolk,1671.0,720,224,"""Now there are 720 burgesses and 224 empty messuages"" (943 burgesses before 1066)"
+64351,Torksey,Lincolnshire,264.0,102,111,"""102 burgesses"" and ""111 messuages"" waste"
+64526,Totnes,Devon,100.0,110,0,"""100 burgesses, less 5"" within the Borough ""and 15 outside"""
+65626,Tutbury,Staffordshire,,42,0,"""42 men in trade in the market"""
+66871,Wallingford,Berkshire,22.0,263,8,"""276 sites"" before 1066, ""13 fewer sites"" now, ""8 were destroyed for the castle"""
+67386,Wareham,Dorset,2.0,135,77,"""70 houses"" of the King, ""45 houses standing and 17 unoccupied"" and ""20 houses standing and 60 have been destroyed"""
+67616,Warwick,Warwickshire,19.0,225,4,"""113 houses"" in the King's lordship and 112 of the barons"
+70851,Wilton,Wiltshire,,0,0,the burgesses and houses counted
+70981,Winchester,Hampshire,,31,0,"sum of the houses, messuages, sites and burgesses its borough entries count for 1086 (automatic)"
+71026,Windsor,Berkshire,25.0,100,0,"""100 sites"""
+72686,Worcester,Worcestershire,,143,0,"""90 houses"" belonging to the bishop's manor, ""25 houses"" in the market place and the 28 messuages of Evesham"
+73586,Yarmouth,Norfolk,70.0,70,0,"""70 burgesses"""
+73831,York,Yorkshire,16.0,540,540,"an estimate: Domesday's account of York (its text is not in the Hull transcription, which omits Yorkshire) records several hundred dwellings still inhabited and some 540 standing empty after 1069; drawn as 540 inhabited and 540 empty"
