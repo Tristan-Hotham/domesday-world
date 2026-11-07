@@ -1,0 +1,2568 @@
+{
+"castles": [
+{
+"placeId": "66871",
+"name": "Wallingford",
+"ref": "Berkshire B1",
+"quote": "8 were destroyed for the castle;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "16006",
+"name": "Windsor",
+"ref": "Berkshire 49,1",
+"quote": "Windsor Castle is in the 1/2 hide.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "12801",
+"name": "Cambridge",
+"ref": "Cambridgeshire B1",
+"quote": "This single ward was accounted as two before 1066 but 27 houses have been destroyed for the castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "51646",
+"name": "Rhuddlan",
+"ref": "Cheshire FT2,19",
+"quote": "In the manor of Rhuddlan itself a castle has been newly built, likewise called Rhuddlan.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "48821",
+"name": "Penwortham",
+"ref": "Cheshire R6,5",
+"quote": "Now there is a castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "37991",
+"name": "Launceston",
+"ref": "Cornwall 5,1,22",
+"quote": "The Count's castle is there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "64946",
+"name": "Trematon",
+"ref": "Cornwall 5,2,11",
+"quote": "!1!] The Count has a castle there, and a market which pays 3s [!1! a year.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "48431",
+"name": "Peveril (Castleton)",
+"ref": "Derbyshire 7,7",
+"quote": "[BLACKWELL Wapentake] Arnbiorn and Hunding held the land of William Peverel's castle in CASTLETON.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "46966",
+"name": "Okehampton",
+"ref": "Devon 16,3",
+"quote": "[his] castle is sited there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "36336",
+"name": "Wareham Castle (Kingston entry)",
+"ref": "Dorset 19,10",
+"quote": "Of the manor of Kingston the King has 1 hide, on which he built Wareham Castle;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "51316",
+"name": "Rayleigh",
+"ref": "Essex 24,17",
+"quote": "In this manor Swein made his castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "26981",
+"name": "Gloucester",
+"ref": "Gloucestershire G4",
+"quote": "Where the castle is sited there were 16 houses which do not exist now, and 14 houses in the Borough of the City have been destroyed.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "14536",
+"name": "Chepstow",
+"ref": "Gloucestershire S1",
+"quote": "[In IS COED Commote] Earl William built the castle of CHEPSTOW and in his time paid only 40s from the ships going into the woodland.",
+"stone": true,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "54986",
+"name": "Small castle (Berkeley, Sharpness entry)",
+"ref": "Gloucestershire 1,19",
+"quote": "In SHARPNESS 5 hides which belong to Berkeley, which Earl William placed outside to build a small castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "1541",
+"name": "Castle at Alvington, Isle of Wight",
+"ref": "Hampshire IoW1,15",
+"quote": "now for 2 hides, because a castle stands on one virgate.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "70331",
+"name": "Wigmore",
+"ref": "Herefordshire 9,1",
+"quote": "In HEZETRE Hundred Ralph of Mortimer holds WIGMORE Castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "43716",
+"name": "Monmouth",
+"ref": "Herefordshire 1,48",
+"quote": "[In Wales] [CASTLERY] In MONMOUTH CASTLE the King has 4 ploughs in lordship. Value of what the King has in this castle, 100s. Saint-Florent of Saumur holds the church of this castle and all the tithe, with 2 carucates of land.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "16086",
+"name": "Clifford",
+"ref": "Herefordshire 8,1",
+"quote": "[CASTLE outside Hundred] Ralph of Tosny holds CLIFFORD Castle. This castle is in the kingdom of England and not subject to any Hundred or customary dues. Gilbert the sheriff holds it at a revenue, both the Borough [Clifford Castle] and the plough . In this castlery Roger holds land for 4 ploughs;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "51701",
+"name": "Richard's Castle",
+"ref": "Herefordshire 12,2",
+"quote": "In CUTESTORNES Hundred [In `WOLFHAY' Hundred] Robert also holds 5 1/2 hides in the castlery of [Richards] CASTLE.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "23921",
+"name": "Ewyas Harold",
+"ref": "Herefordshire 19,1",
+"quote": "[CASTLE] Alfred of Marlborough holds the castle of EWYAS [Harold] from King William. The King himself granted him the lands which Earl William, who had refortified the castle, had given him; The King also granted him the land of Ralph of Bernay which belonged to the castle. Value of this castle of Ewyas [Harold] \u00a310.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "12501",
+"name": "Caerleon (castlery)",
+"ref": "Herefordshire 14,1",
+"quote": "[In Wales] [CASTLERY] William of Ecouis holds 8 carucates of land in the castlery of CAERLEON.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "34101",
+"name": "Huntingdon",
+"ref": "Huntingdonshire B6",
+"quote": "On the castle site there were 20 messuages [liable] for all customary dues, which paid 16s 8d a year to the King's revenue.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "12946",
+"name": "Canterbury",
+"ref": "Kent C1",
+"quote": "[The houses] of 32 others who were there have been destroyed, 11 in the city ditch, the Archbishop [of Canterbury] has 7 of them, the Abbot of St Augustine's another 14 in exchange for the castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "39271",
+"name": "Lincoln",
+"ref": "Lincolnshire C26",
+"quote": "Of the said unoccupied messuages 166 were destroyed because of the castle; the remaining 74 are unoccupied outside the castle's perimeter, not because of the oppression of the Sheriffs and officers, but because of misfortune, poverty and the ravages of fire.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "57871",
+"name": "Stamford",
+"ref": "Lincolnshire S2",
+"quote": "but now there are as many except for 5 which are unoccupied because of the construction of the castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "46346",
+"name": "Norwich",
+"ref": "Norfolk 1,61",
+"quote": "Also on the land of which [Earl] Harold had the jurisdiction, there are 15 burgesses and 17 empty messuages which are in the occupation of the castle premises. Also in the Borough there are 190 messuages empty in this [area] which was in the King's and the Earl's jurisdiction and 81 in the occupation of the castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "52216",
+"name": "Rockingham",
+"ref": "Northamptonshire 1,27",
+"quote": "It was waste when King William ordered a castle to be built there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "55926",
+"name": "Shrewsbury",
+"ref": "Shropshire C14",
+"quote": "The English burgesses of SHREWSBURY state that it is very hard on them that they pay as much tax as was paid before 1066, although the Earl's castle has taken over 51 messuages and 50 other messuages are unoccupied and 43 French burgesses hold messuages which paid tax before 1066 and the Earl has himself given to the Abbey, which he is building there, 39 burgesses who once paid tax likewise with t",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "40956",
+"name": "Oswestry (Maesbury entry)",
+"ref": "Shropshire 4,1,11",
+"quote": "Reginald has built the castle of Oswestry there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "43741",
+"name": "Montgomery",
+"ref": "Shropshire 4,1,35",
+"quote": "In WITTERY Hundred The Earl has built the castle called MONTGOMERY himself; in Castlewright 2 hides;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "32421",
+"name": "Holdgate",
+"ref": "Shropshire 4,21,6",
+"quote": "Helgot has a castle, and 2 ploughs in lordship and 4 slaves and 3 villagers, 3 smallholders and 1 Frenchman with 3 1/2 ploughs.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "7261",
+"name": "Montacute (Bishopstone entry)",
+"ref": "Somerset 19,86",
+"quote": "His castle, called Montacute, is there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "21541",
+"name": "Dunster",
+"ref": "Somerset 25,2",
+"quote": "his castle is there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "65626",
+"name": "Tutbury",
+"ref": "Staffordshire 10,1",
+"quote": "In PIREHILL Hundred [In OFFLOW Hundred] Henry of Ferrers has TUTBURY Castle. In the Borough [Tutbury] around the castle are 42 men who live only by their trading;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "57661",
+"name": "Stafford (Chebsey entry, castle destroyed by 1086)",
+"ref": "Staffordshire 10,9",
+"quote": "To this manor belonged land at Stafford on which the King ordered a castle to be built;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "24031",
+"name": "Eye",
+"ref": "Suffolk 18,1",
+"quote": "W[illiam] Malet made his castle at Eye and, on the same day that there was a market on the Bishop's manor, W[illiam] Malet established another market in his castle.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "30106",
+"name": "Hastings (castlery)",
+"ref": "Sussex 9,11",
+"quote": "he held it later until King William gave the castlery of Hastings to the Count.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "2256",
+"name": "Arundel",
+"ref": "Sussex 11,2",
+"quote": "[In Arundel Rape] [In BINSTED Hundred] ARUNDEL CASTLE before 1066 paid 40s from a mill;",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "67676",
+"name": "Bramber (Washington entry)",
+"ref": "Sussex 13,9",
+"quote": "Bramber Castle is situated in one of these hides.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "67616",
+"name": "Warwick",
+"ref": "Warwickshire B2",
+"quote": "and 4 are waste, because of the castle site.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "21311",
+"name": "Dudley",
+"ref": "Worcestershire 23,10",
+"quote": "His castle is there.",
+"stone": false,
+"source": "named in Domesday (Norman Castles study)"
+},
+{
+"placeId": "53501",
+"name": "[St Stephens by] Launceston",
+"ref": "",
+"quote": "",
+"stone": false,
+"source": "an entry Hull codes with a castle"
+},
+{
+"placeId": "73831",
+"name": "York",
+"ref": "",
+"quote": "",
+"stone": false,
+"source": "an entry Hull codes with a castle"
+}
+],
+"castles_other": [
+{
+"name": "Berkhamsted Castle",
+"lat": 51.76,
+"lon": -0.56,
+"year": 1066,
+"qid": "Q4892150",
+"stone": false,
+"county": "Hertfordshire"
+},
+{
+"name": "Hertford Castle",
+"lat": 51.8,
+"lon": -0.08,
+"year": 1066,
+"qid": "Q2363520",
+"stone": false,
+"county": "Hertfordshire"
+},
+{
+"name": "Ludlow Castle",
+"lat": 52.37,
+"lon": -2.72,
+"year": 1066,
+"qid": "Q576369",
+"stone": true,
+"county": "Shropshire"
+},
+{
+"name": "Pevensey Castle",
+"lat": 50.82,
+"lon": 0.33,
+"year": 1066,
+"qid": "Q2970215",
+"stone": false,
+"county": "East Sussex"
+},
+{
+"name": "Tower of London",
+"lat": 51.51,
+"lon": -0.08,
+"year": 1066,
+"qid": "Q62378",
+"stone": true,
+"county": "Greater London"
+},
+{
+"name": "Belvoir Castle",
+"lat": 52.89,
+"lon": -0.78,
+"year": 1067,
+"qid": "Q816295",
+"stone": false,
+"county": "Leicestershire"
+},
+{
+"name": "Marlborough Castle",
+"lat": 51.42,
+"lon": -1.74,
+"year": 1067,
+"qid": "Q6771659",
+"stone": false,
+"county": "Wiltshire"
+},
+{
+"name": "Nottingham Castle",
+"lat": 52.95,
+"lon": -1.15,
+"year": 1067,
+"qid": "Q17642916",
+"stone": false,
+"county": "Nottinghamshire"
+},
+{
+"name": "Winchester Castle",
+"lat": 51.06,
+"lon": -1.32,
+"year": 1067,
+"qid": "Q1704670",
+"stone": false,
+"county": "Hampshire"
+},
+{
+"name": "Chester Castle",
+"lat": 53.19,
+"lon": -2.89,
+"year": 1069,
+"qid": "Q505858",
+"stone": false,
+"county": "Cheshire"
+},
+{
+"name": "Colchester Castle",
+"lat": 51.89,
+"lon": 0.9,
+"year": 1069,
+"qid": "Q198287",
+"stone": true,
+"county": "Essex"
+},
+{
+"name": "Worcester Castle",
+"lat": 52.19,
+"lon": -2.22,
+"year": 1069,
+"qid": "Q8034150",
+"stone": false,
+"county": "Worcestershire"
+},
+{
+"name": "Bramber Castle",
+"lat": 50.88,
+"lon": -0.32,
+"year": 1070,
+"qid": "Q897538",
+"stone": false,
+"county": "West Sussex"
+},
+{
+"name": "Dunbar Castle",
+"lat": 56.01,
+"lon": -2.52,
+"year": 1070,
+"qid": "Q2969165",
+"stone": false,
+"county": "East Lothian"
+},
+{
+"name": "Pontefract Castle",
+"lat": 53.7,
+"lon": -1.3,
+"year": 1070,
+"qid": "Q1949590",
+"stone": false,
+"county": "West Yorkshire"
+},
+{
+"name": "Tamworth Castle",
+"lat": 52.63,
+"lon": -1.7,
+"year": 1070,
+"qid": "Q7681908",
+"stone": false,
+"county": "Staffordshire"
+},
+{
+"name": "Richmond Castle",
+"lat": 54.4,
+"lon": -1.74,
+"year": 1071,
+"qid": "Q6645746",
+"stone": true,
+"county": "North Yorkshire"
+},
+{
+"name": "Durham Castle",
+"lat": 54.77,
+"lon": -1.58,
+"year": 1072,
+"qid": "Q752266",
+"stone": false,
+"county": "Durham"
+},
+{
+"name": "Cardiff Castle",
+"lat": 51.48,
+"lon": -3.18,
+"year": 1080,
+"qid": "Q1035742",
+"stone": false,
+"county": "South Glamorgan"
+},
+{
+"name": "Castell Aberlleiniog",
+"lat": 53.29,
+"lon": -4.08,
+"year": 1080,
+"qid": "Q2275648",
+"stone": false,
+"county": "Gwynedd"
+},
+{
+"name": "Deganwy Castle",
+"lat": 53.3,
+"lon": -3.83,
+"year": 1080,
+"qid": "Q2969121",
+"stone": false,
+"county": "Clwyd"
+},
+{
+"name": "Lympne Castle",
+"lat": 51.07,
+"lon": 1.02,
+"year": 1080,
+"qid": "Q421395",
+"stone": false,
+"county": "Kent"
+},
+{
+"name": "Newcastle upon Tyne Castle",
+"lat": 54.97,
+"lon": -1.61,
+"year": 1080,
+"qid": "Q7721569",
+"stone": false,
+"county": "Tyne and Wear"
+},
+{
+"name": "Northampton Castle",
+"lat": 52.24,
+"lon": -0.9,
+"year": 1084,
+"qid": "Q7057595",
+"stone": false,
+"county": "Northamptonshire"
+},
+{
+"name": "Castle Pulverbatch",
+"lat": 52.61,
+"lon": -2.85,
+"year": 1086,
+"qid": "Q17678771",
+"stone": false,
+"county": "Shropshire"
+},
+{
+"name": "Skipsea Castle",
+"lat": 53.98,
+"lon": -0.23,
+"year": 1086,
+"qid": "Q7535837",
+"stone": false,
+"county": "East Riding of Yorkshire"
+}
+],
+"abbeys": [
+{
+"name": "Abbotsbury",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1026,
+"modifier": "in c.",
+"county": "Dors.",
+"placeId": "16",
+"lat": 50.66761,
+"lon": -2.60274,
+"place": "Abbotsbury"
+},
+{
+"name": "Abingdon",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 675,
+"modifier": "in",
+"county": "Berks.",
+"placeId": "51",
+"lat": 51.6741,
+"lon": -1.28556,
+"place": "Abingdon"
+},
+{
+"name": "Alkborough",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1052,
+"modifier": "in",
+"county": "Lincs.",
+"placeId": "1011",
+"lat": 53.68247,
+"lon": -0.66153,
+"place": "Alkborough"
+},
+{
+"name": "Amesbury",
+"type": "abbey",
+"order": "Fontevraud nuns",
+"founded": 979,
+"modifier": "in c.",
+"county": "Wilts.",
+"placeId": "1651",
+"lat": 51.17253,
+"lon": -1.77967,
+"place": "Amesbury"
+},
+{
+"name": "Athelney",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 878,
+"modifier": "in c.",
+"county": "Som.",
+"placeId": "3266",
+"lat": 51.06108,
+"lon": -2.93604,
+"place": "Athelney"
+},
+{
+"name": "Bardney",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 697,
+"modifier": "by",
+"county": "Lincs.",
+"placeId": "4131",
+"lat": 53.21088,
+"lon": -0.33185,
+"place": "Bardney"
+},
+{
+"name": "Barking",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 666,
+"modifier": "in c.",
+"county": "Essex",
+"placeId": "4271",
+"lat": 51.53192,
+"lon": 0.08185,
+"place": "Barking"
+},
+{
+"name": "Bath",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 676,
+"modifier": "in",
+"county": "Som.",
+"placeId": "5086",
+"lat": 51.37902,
+"lon": -2.35341,
+"place": "Bath"
+},
+{
+"name": "Battle",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1066,
+"modifier": "in",
+"county": "Suss.",
+"placeId": "5196",
+"lat": 50.91259,
+"lon": 0.48089,
+"place": "Battle"
+},
+{
+"name": "Bermondsey",
+"type": "abbey",
+"order": "Cluniac monks",
+"founded": 1082,
+"modifier": "in",
+"county": "Surr.",
+"placeId": "6306",
+"lat": 51.49845,
+"lon": -0.06375,
+"place": "Bermondsey"
+},
+{
+"name": "Blakenham",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1075,
+"modifier": "in c.",
+"county": "Suff.",
+"placeId": "7496",
+"lat": 52.11236,
+"lon": 1.08742,
+"place": "[Great] Blakenham"
+},
+{
+"name": "Bromfield",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1060,
+"modifier": "by",
+"county": "Salop.",
+"placeId": "10441",
+"lat": 52.3841,
+"lon": -2.75808,
+"place": "Bromfield"
+},
+{
+"name": "Buckfast or Buckfastleigh",
+"type": "abbey",
+"order": "Cistercian monks",
+"founded": 1018,
+"modifier": "in",
+"county": "Devon",
+"placeId": "11021",
+"lat": 50.49382,
+"lon": -3.7707,
+"place": "Buckfast"
+},
+{
+"name": "Burton",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1004,
+"modifier": "in c.",
+"county": "Staffs.",
+"placeId": "11951",
+"lat": 52.78201,
+"lon": -2.12746,
+"place": "Burton"
+},
+{
+"name": "Bury St Edmunds",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 903,
+"modifier": "in c.",
+"county": "Suff.",
+"placeId": "12176",
+"lat": 52.24741,
+"lon": 0.71585,
+"place": "Bury [St Edmund's]"
+},
+{
+"name": "Canterbury, Christ Church or Holy Trinity Cathedral",
+"type": "cathedral priory",
+"order": "Benedictine monks",
+"founded": 597,
+"modifier": "by",
+"county": "Kent",
+"placeId": "12946",
+"lat": 51.27587,
+"lon": 1.08834,
+"place": "Canterbury"
+},
+{
+"name": "Canterbury, St Augustine",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 605,
+"modifier": "by",
+"county": "Kent",
+"placeId": "12946",
+"lat": 51.27587,
+"lon": 1.08834,
+"place": "Canterbury"
+},
+{
+"name": "Canterbury, St Gregory",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 1086,
+"modifier": "in c.",
+"county": "Kent",
+"placeId": "12946",
+"lat": 51.27587,
+"lon": 1.08834,
+"place": "Canterbury"
+},
+{
+"name": "Cerne",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 604,
+"modifier": "by",
+"county": "Dors.",
+"placeId": "13761",
+"lat": 50.81207,
+"lon": -2.47685,
+"place": "Cerne [Abbas]"
+},
+{
+"name": "Chatteris",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 1016,
+"modifier": "by",
+"county": "Cambs.",
+"placeId": "14311",
+"lat": 52.44965,
+"lon": 0.05128,
+"place": "Chatteris"
+},
+{
+"name": "Chertsey",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 675,
+"modifier": "by",
+"county": "Surr.",
+"placeId": "14641",
+"lat": 51.39692,
+"lon": -0.49929,
+"place": "Chertsey"
+},
+{
+"name": "Chester, St Werburgh",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 958,
+"modifier": "by",
+"county": "Ches.",
+"placeId": "14681",
+"lat": 53.19224,
+"lon": -2.892,
+"place": "Chester"
+},
+{
+"name": "Christchurch (Twyneham)",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 1066,
+"modifier": "by",
+"county": "Hants.",
+"placeId": "65721",
+"lat": 50.73191,
+"lon": -1.78174,
+"place": "Twynham"
+},
+{
+"name": "Cirencester",
+"type": "abbey",
+"order": "Augustinian canons",
+"founded": 1066,
+"modifier": "by",
+"county": "Glos.",
+"placeId": "15551",
+"lat": 51.71223,
+"lon": -1.96522,
+"place": "Cirencester"
+},
+{
+"name": "Coventry Cathedral",
+"type": "cathedral priory",
+"order": "Benedictine monks",
+"founded": 1043,
+"modifier": "in",
+"county": "Warws.",
+"placeId": "18106",
+"lat": 52.41248,
+"lon": -1.50892,
+"place": "Coventry"
+},
+{
+"name": "Cranborne",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 980,
+"modifier": "in c.",
+"county": "Dors.",
+"placeId": "18331",
+"lat": 50.92093,
+"lon": -1.92313,
+"place": "Cranborne"
+},
+{
+"name": "Crowland",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 971,
+"modifier": "in c.",
+"county": "Lincs.",
+"placeId": "18916",
+"lat": 52.67791,
+"lon": -0.15993,
+"place": "Crowland"
+},
+{
+"name": "Deerhurst",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 804,
+"modifier": "in c.",
+"county": "Glos.",
+"placeId": "19861",
+"lat": 51.96384,
+"lon": -2.18334,
+"place": "Deerhurst"
+},
+{
+"name": "Docco or Docco, at Lanow, near St Kew",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 500,
+"modifier": "in c.",
+"county": "Cornw.",
+"placeId": "53431",
+"lat": 50.55481,
+"lon": -4.7895,
+"place": "St Kew"
+},
+{
+"name": "Durham Cathedral",
+"type": "cathedral priory",
+"order": "Benedictine monks",
+"founded": 1083,
+"modifier": "in",
+"county": "Dur.",
+"lat": 54.7733,
+"lon": -1.5762,
+"placeId": null
+},
+{
+"name": "Elstow",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 1076,
+"modifier": "in",
+"county": "Beds.",
+"placeId": "23186",
+"lat": 52.11577,
+"lon": -0.46067,
+"place": "Elstow"
+},
+{
+"name": "Ely Cathedral",
+"type": "cathedral priory",
+"order": "Benedictine monks",
+"founded": 673,
+"modifier": "in",
+"county": "Cambs.",
+"placeId": "23301",
+"lat": 52.40071,
+"lon": 0.26952,
+"place": "Ely"
+},
+{
+"name": "Evesham",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 714,
+"modifier": "in",
+"county": "Worcs.",
+"placeId": "23866",
+"lat": 52.08984,
+"lon": -1.95033,
+"place": "Evesham"
+},
+{
+"name": "Eynsham",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1005,
+"modifier": "in c.",
+"county": "Oxon.",
+"placeId": "24081",
+"lat": 51.78248,
+"lon": -1.37083,
+"place": "Eynsham"
+},
+{
+"name": "Farne",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 676,
+"modifier": "in c.",
+"county": "Northumb.",
+"lat": 55.6161,
+"lon": -1.6545,
+"placeId": null
+},
+{
+"name": "Frampton",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1086,
+"modifier": "by",
+"county": "Dors.",
+"placeId": "25716",
+"lat": 50.75787,
+"lon": -2.53301,
+"place": "Frampton"
+},
+{
+"name": "Glastonbury",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 600,
+"modifier": "by",
+"county": "Som.",
+"placeId": "26881",
+"lat": 51.14361,
+"lon": -2.70898,
+"place": "Glastonbury"
+},
+{
+"name": "Gloucester, St Oswald",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 909,
+"modifier": "in c.",
+"county": "Glos.",
+"placeId": "26981",
+"lat": 51.86483,
+"lon": -2.24103,
+"place": "Gloucester"
+},
+{
+"name": "Gloucester, St Peter",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 681,
+"modifier": "in c.",
+"county": "Glos.",
+"placeId": "26981",
+"lat": 51.86483,
+"lon": -2.24103,
+"place": "Gloucester"
+},
+{
+"name": "Great Malvern",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1066,
+"modifier": "by",
+"county": "Worcs.",
+"placeId": "41116",
+"lat": 52.06241,
+"lon": -2.32961,
+"place": "[Little] Malvern"
+},
+{
+"name": "Harmondsworth",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1069,
+"modifier": "in c.",
+"county": "Mdx.",
+"placeId": "29666",
+"lat": 51.48662,
+"lon": -0.48195,
+"place": "Harmondsworth"
+},
+{
+"name": "Hartland",
+"type": "abbey",
+"order": "Augustinian canons",
+"founded": 1053,
+"modifier": "by",
+"county": "Devon",
+"placeId": "29866",
+"lat": 50.99368,
+"lon": -4.47371,
+"place": "Hartland"
+},
+{
+"name": "Horsley",
+"type": "alien priory",
+"order": "Augustinian canons",
+"founded": 1086,
+"modifier": "by",
+"county": "Glos.",
+"placeId": "33381",
+"lat": 51.67602,
+"lon": -2.24002,
+"place": "Horsley"
+},
+{
+"name": "Horton",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 961,
+"modifier": "in c.",
+"county": "Dors.",
+"placeId": "33436",
+"lat": 50.867,
+"lon": -1.96584,
+"place": "Horton"
+},
+{
+"name": "Jarrow",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1074,
+"modifier": "in",
+"county": "Dur.",
+"lat": 54.9806,
+"lon": -1.4716,
+"placeId": null
+},
+{
+"name": "Lastingham",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 655,
+"modifier": "by",
+"county": "Yorks. NR",
+"placeId": "37906",
+"lat": 54.30497,
+"lon": -0.88732,
+"place": "Lastingham"
+},
+{
+"name": "Leominster",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 660,
+"modifier": "in c.",
+"county": "Herefs.",
+"placeId": "38831",
+"lat": 52.23137,
+"lon": -2.74083,
+"place": "Leominster"
+},
+{
+"name": "Lewes",
+"type": "priory",
+"order": "Cluniac monks",
+"founded": 1077,
+"modifier": "in",
+"county": "Suss.",
+"placeId": "39036",
+"lat": 50.87668,
+"lon": 0.00987,
+"place": "Lewes"
+},
+{
+"name": "Lewisham",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 918,
+"modifier": "in",
+"county": "Kent",
+"placeId": "39041",
+"lat": 51.46154,
+"lon": -0.00773,
+"place": "Lewisham"
+},
+{
+"name": "Lyminster",
+"type": "alien priory",
+"order": "Benedictine nuns",
+"founded": 1086,
+"modifier": "by",
+"county": "Suss.",
+"placeId": "40781",
+"lat": 50.83097,
+"lon": -0.54591,
+"place": "Lyminster"
+},
+{
+"name": "Malmesbury",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 637,
+"modifier": "in c.",
+"county": "Wilts.",
+"placeId": "41066",
+"lat": 51.58632,
+"lon": -2.09521,
+"place": "Malmesbury"
+},
+{
+"name": "Milton",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 933,
+"modifier": "in",
+"county": "Dors.",
+"placeId": "43241",
+"lat": 50.81272,
+"lon": -2.27815,
+"place": "Milton [Abbas]"
+},
+{
+"name": "Minster in Sheppey",
+"type": "priory",
+"order": "Benedictine nuns",
+"founded": 670,
+"modifier": "in c.",
+"county": "Kent",
+"placeId": "43411",
+"lat": 51.33244,
+"lon": 1.32188,
+"place": "Minster"
+},
+{
+"name": "Molycourt or St Mary de Bello Loco",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1066,
+"modifier": "by",
+"county": "Norf.",
+"placeId": "47646",
+"lat": 52.60816,
+"lon": 0.23592,
+"place": "Outwell"
+},
+{
+"name": "Monks Kirby",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1077,
+"modifier": "in",
+"county": "Warws.",
+"placeId": "36611",
+"lat": 52.44749,
+"lon": -1.31726,
+"place": "[Monks] Kirby"
+},
+{
+"name": "Morville",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1066,
+"modifier": "by",
+"county": "Salop.",
+"placeId": "44151",
+"lat": 52.54731,
+"lon": -2.49544,
+"place": "Morville"
+},
+{
+"name": "Muchelney",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 937,
+"modifier": "by",
+"county": "Som.",
+"placeId": "44326",
+"lat": 51.01699,
+"lon": -2.8211,
+"place": "Muchelney"
+},
+{
+"name": "Newent",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1086,
+"modifier": "by",
+"county": "Glos.",
+"placeId": "45116",
+"lat": 51.92733,
+"lon": -2.40133,
+"place": "Newent"
+},
+{
+"name": "Oxford, St Frideswide",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 1004,
+"modifier": "in c.",
+"county": "Oxon.",
+"placeId": "47926",
+"lat": 51.75483,
+"lon": -1.25531,
+"place": "Oxford"
+},
+{
+"name": "Panfield",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1077,
+"modifier": "by",
+"county": "Essex",
+"placeId": "48146",
+"lat": 51.90103,
+"lon": 0.52045,
+"place": "Panfield"
+},
+{
+"name": "Pershore",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 972,
+"modifier": "by",
+"county": "Worcs.",
+"placeId": "48926",
+"lat": 52.1078,
+"lon": -2.08172,
+"place": "Pershore"
+},
+{
+"name": "Peterborough",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 655,
+"modifier": "in c.",
+"county": "Northants.",
+"placeId": "48961",
+"lat": 52.5712,
+"lon": -0.23818,
+"place": "Peterborough"
+},
+{
+"name": "Pontefract",
+"type": "priory",
+"order": "Cluniac monks",
+"founded": 1080,
+"modifier": "in",
+"county": "Yorks. WR",
+"placeId": "61521",
+"lat": 53.69697,
+"lon": -1.31236,
+"place": "Tanshelf"
+},
+{
+"name": "Ramsey",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 969,
+"modifier": "in",
+"county": "Hunts.",
+"placeId": "51041",
+"lat": 52.45211,
+"lon": -0.09577,
+"place": "Ramsey"
+},
+{
+"name": "Repton",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 600,
+"modifier": "in c.",
+"county": "Derb.",
+"placeId": "51576",
+"lat": 52.83516,
+"lon": -1.5487,
+"place": "Repton"
+},
+{
+"name": "Rochester Cathedral",
+"type": "cathedral priory",
+"order": "Benedictine monks",
+"founded": 604,
+"modifier": "in",
+"county": "Kent",
+"placeId": "52171",
+"lat": 51.38871,
+"lon": 0.50656,
+"place": "Rochester"
+},
+{
+"name": "Romsey",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 907,
+"modifier": "in c.",
+"county": "Hants.",
+"placeId": "52461",
+"lat": 50.99181,
+"lon": -1.49556,
+"place": "Romsey"
+},
+{
+"name": "Rumburgh",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1064,
+"modifier": "in",
+"county": "Suff.",
+"placeId": "53006",
+"lat": 52.38129,
+"lon": 1.4442,
+"place": "Rumburgh"
+},
+{
+"name": "Runcton",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1086,
+"modifier": "by",
+"county": "Suss.",
+"placeId": "53011",
+"lat": 50.8153,
+"lon": -0.74514,
+"place": "Runcton"
+},
+{
+"name": "Selby",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1070,
+"modifier": "in c.",
+"county": "Yorks. WR",
+"placeId": "54696",
+"lat": 53.7852,
+"lon": -1.06807,
+"place": "Selby"
+},
+{
+"name": "Sele",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1080,
+"modifier": "in c.",
+"county": "Suss.",
+"placeId": "54701",
+"lat": 51.7957,
+"lon": -0.09455,
+"place": "Sele [House]"
+},
+{
+"name": "Shaftesbury",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 888,
+"modifier": "in c.",
+"county": "Dors.",
+"placeId": "54876",
+"lat": 51.00173,
+"lon": -2.19377,
+"place": "Shaftesbury"
+},
+{
+"name": "Sherborne",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 705,
+"modifier": "in c.",
+"county": "Dors.",
+"placeId": "55366",
+"lat": 50.94677,
+"lon": -2.52093,
+"place": "Sherborne"
+},
+{
+"name": "Shrewsbury",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1083,
+"modifier": "in",
+"county": "Salop.",
+"placeId": "55926",
+"lat": 52.7078,
+"lon": -2.74888,
+"place": "Shrewsbury"
+},
+{
+"name": "Spalding",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1052,
+"modifier": "in",
+"county": "Lincs.",
+"placeId": "57396",
+"lat": 52.78572,
+"lon": -0.15538,
+"place": "Spalding"
+},
+{
+"name": "St Albans",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 793,
+"modifier": "in",
+"county": "Herts.",
+"placeId": "53361",
+"lat": 51.7545,
+"lon": -0.34259,
+"place": "St Albans"
+},
+{
+"name": "St Benet of Hulme or St Benet of Holm",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1019,
+"modifier": "in",
+"county": "Norf.",
+"placeId": "33256",
+"lat": 52.69493,
+"lon": 1.48366,
+"place": "Horning"
+},
+{
+"name": "St Ives",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1017,
+"modifier": "in c.",
+"county": "Hunts.",
+"placeId": "53411",
+"lat": 52.32585,
+"lon": -0.07185,
+"place": "St Ives"
+},
+{
+"name": "St Neots",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 975,
+"modifier": "by",
+"county": "Hunts.",
+"placeId": "53481",
+"lat": 52.22996,
+"lon": -0.26637,
+"place": "St Neot's"
+},
+{
+"name": "Stoke by Clare",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1066,
+"modifier": "by",
+"county": "Suff.",
+"placeId": "59081",
+"lat": 52.04759,
+"lon": 1.15588,
+"place": "Stoke"
+},
+{
+"name": "Stow",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1016,
+"modifier": "by",
+"county": "Lincs.",
+"placeId": "59666",
+"lat": 52.8968,
+"lon": -0.37367,
+"place": "`Stow'"
+},
+{
+"name": "Swavesey",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1086,
+"modifier": "by",
+"county": "Cambs.",
+"placeId": "61071",
+"lat": 52.30666,
+"lon": 0.00066,
+"place": "Swavesey"
+},
+{
+"name": "Takeley",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1068,
+"modifier": "in c.",
+"county": "Essex",
+"placeId": "61426",
+"lat": 51.8704,
+"lon": 0.25724,
+"place": "Takeley"
+},
+{
+"name": "Tavistock",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 981,
+"modifier": "in",
+"county": "Devon",
+"placeId": "61741",
+"lat": 50.55058,
+"lon": -4.13985,
+"place": "Tavistock"
+},
+{
+"name": "Tewkesbury",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 715,
+"modifier": "in c.",
+"county": "Glos.",
+"placeId": "62021",
+"lat": 51.99085,
+"lon": -2.15432,
+"place": "Tewkesbury"
+},
+{
+"name": "Thetford, St George & St Gregory",
+"type": "priory",
+"order": "Benedictine nuns",
+"founded": 1035,
+"modifier": "by",
+"county": "Suff.",
+"placeId": "62146",
+"lat": 52.40837,
+"lon": 0.75514,
+"place": "Thetford"
+},
+{
+"name": "Thorney",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 972,
+"modifier": "in",
+"county": "Cambs.",
+"placeId": "62491",
+"lat": 52.62306,
+"lon": -0.10313,
+"place": "Thorney"
+},
+{
+"name": "Walsingham",
+"type": "priory",
+"order": "Augustinian canons",
+"founded": 1061,
+"modifier": "in",
+"county": "Norf.",
+"placeId": "66961",
+"lat": 52.56782,
+"lon": 1.20789,
+"place": "Walsingham"
+},
+{
+"name": "Waltham Holy Cross",
+"type": "abbey",
+"order": "Augustinian canons",
+"founded": 1040,
+"modifier": "in c.",
+"county": "Essex",
+"placeId": "67006",
+"lat": 51.68618,
+"lon": 0.00212,
+"place": "Waltham [Holy Cross]"
+},
+{
+"name": "Wearmouth",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1075,
+"modifier": "in c.",
+"county": "Dur.",
+"lat": 54.9131,
+"lon": -1.3833,
+"placeId": null
+},
+{
+"name": "Welle or Well Hall in Gayton",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1081,
+"modifier": "in c.",
+"county": "Norf.",
+"placeId": "26566",
+"lat": 52.74527,
+"lon": 0.56891,
+"place": "Gayton"
+},
+{
+"name": "Wenlock",
+"type": "abbey",
+"order": "Cluniac monks",
+"founded": 690,
+"modifier": "by",
+"county": "Salop.",
+"placeId": "68461",
+"lat": 52.65506,
+"lon": -2.52623,
+"place": "[Little] Wenlock"
+},
+{
+"name": "Westbury-on-Trym",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 964,
+"modifier": "in c.",
+"county": "Glos.",
+"placeId": "68646",
+"lat": 51.82838,
+"lon": -2.41496,
+"place": "Westbury [on Severn]"
+},
+{
+"name": "Westminster",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 959,
+"modifier": "in c.",
+"county": "Mdx.",
+"placeId": "68821",
+"lat": 51.49938,
+"lon": -0.12134,
+"place": "Westminster"
+},
+{
+"name": "Wherwell",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 986,
+"modifier": "in c.",
+"county": "Hants.",
+"placeId": "69446",
+"lat": 51.16239,
+"lon": -1.4365,
+"place": "Wherwell"
+},
+{
+"name": "Whitby",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1077,
+"modifier": "by",
+"county": "Yorks. NR",
+"placeId": "69576",
+"lat": 54.49077,
+"lon": -0.60439,
+"place": "Whitby"
+},
+{
+"name": "Wilton",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 934,
+"modifier": "by",
+"county": "Wilts.",
+"placeId": "70851",
+"lat": 51.08274,
+"lon": -1.86575,
+"place": "Wilton"
+},
+{
+"name": "Winchcombe",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 798,
+"modifier": "in",
+"county": "Glos.",
+"placeId": "70956",
+"lat": 51.95498,
+"lon": -1.96503,
+"place": "Winchcombe"
+},
+{
+"name": "Winchester, Hyde or New Minster",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 901,
+"modifier": "in",
+"county": "Hants.",
+"placeId": "70981",
+"lat": 51.0628,
+"lon": -1.30928,
+"place": "Winchester"
+},
+{
+"name": "Winchester, St Mary or Nunnaminster",
+"type": "abbey",
+"order": "Benedictine nuns",
+"founded": 900,
+"modifier": "in c.",
+"county": "Hants.",
+"placeId": "70981",
+"lat": 51.0628,
+"lon": -1.30928,
+"place": "Winchester"
+},
+{
+"name": "Winchester, St Swithun or Old Minster or Cathedral",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 643,
+"modifier": "in",
+"county": "Hants.",
+"placeId": "70981",
+"lat": 51.0628,
+"lon": -1.30928,
+"place": "Winchester"
+},
+{
+"name": "Worcester Cathedral",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 680,
+"modifier": "in",
+"county": "Worcs.",
+"placeId": "72686",
+"lat": 52.18852,
+"lon": -2.22815,
+"place": "Worcester"
+},
+{
+"name": "York, St Mary",
+"type": "abbey",
+"order": "Benedictine monks",
+"founded": 1086,
+"modifier": "by",
+"county": "York",
+"placeId": "73831",
+"lat": 53.96505,
+"lon": -1.07931,
+"place": "York"
+}
+],
+"abbeys_unmatched": [
+{
+"name": "Belvoir",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 1076,
+"modifier": "in c.",
+"county": "Lincs."
+},
+{
+"name": "Covenham",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1082,
+"modifier": "in c.",
+"county": "Lincs."
+},
+{
+"name": "Hayling",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1067,
+"modifier": "in c.",
+"county": "Hants."
+},
+{
+"name": "Perranzabuloe or Perran",
+"type": "priory",
+"order": "Benedictine monks",
+"founded": 960,
+"modifier": "by",
+"county": "Cornw."
+},
+{
+"name": "St Michael's Mount",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1050,
+"modifier": "in",
+"county": "Cornw."
+},
+{
+"name": "Warminghurst",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1066,
+"modifier": "by",
+"county": "Suss."
+},
+{
+"name": "West Mersea",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1046,
+"modifier": "in c.",
+"county": "Essex"
+},
+{
+"name": "Withyham",
+"type": "alien priory",
+"order": "Benedictine monks",
+"founded": 1086,
+"modifier": "by",
+"county": "Suss."
+}
+],
+"markets": [
+{
+"name": "York",
+"county": "Yorkshire",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 53.95368,
+"lon": -1.08252,
+"placeId": "73831"
+},
+{
+"name": "Bampton",
+"county": "Oxfordshire",
+"first": "1086",
+"source": "VCH Oxfordshire, i, p. 400",
+"lat": 51.72759,
+"lon": -1.54972,
+"placeId": "4056"
+},
+{
+"name": "Worcester",
+"county": "Worcestershire",
+"first": "880x99",
+"source": "Defence, p. 226",
+"lat": 52.19133,
+"lon": -2.22242,
+"placeId": "72686"
+},
+{
+"name": "Huntingdon",
+"county": "Huntingdonshire",
+"first": "963",
+"source": "M. Swanton ed., 'The Anglo Saxon Chronicle', (London, 1996), p. 116",
+"lat": 52.32947,
+"lon": -0.18163,
+"placeId": "34101"
+},
+{
+"name": "Yaxley",
+"county": "Huntingdonshire",
+"first": "gr 1066x1087",
+"source": "QW, p. 298",
+"lat": 52.5124,
+"lon": -0.26693,
+"placeId": "73686"
+},
+{
+"name": "Cookham",
+"county": "Berkshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.56128,
+"lon": -0.7088,
+"placeId": "17431"
+},
+{
+"name": "Wallingford",
+"county": "Berkshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.5993,
+"lon": -1.12503,
+"placeId": "66871"
+},
+{
+"name": "Bradford Upon Avon",
+"county": "Wiltshire",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 51.34691,
+"lon": -2.25423,
+"placeId": "8921"
+},
+{
+"name": "Malmesbury",
+"county": "Wiltshire",
+"first": "1080x87",
+"source": "Regesta, 1066-87, no. 195",
+"lat": 51.58454,
+"lon": -2.09821,
+"placeId": "41066"
+},
+{
+"name": "Barton-Upon-Humber",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Lincolnshire Domesday', (London, 1992), f. 354v",
+"lat": 53.6845,
+"lon": -0.43721,
+"placeId": "4901"
+},
+{
+"name": "Burton Upon Stather",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Lincolnshire Domesday', (London, 1992), p. 23, f.338v",
+"lat": 53.65062,
+"lon": -0.68511,
+"placeId": "12096"
+},
+{
+"name": "Louth",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 53.36612,
+"lon": -0.00697,
+"placeId": "40216"
+},
+{
+"name": "Old Bolingbroke ",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 53.16611,
+"lon": 0.01666,
+"placeId": "7991"
+},
+{
+"name": "Partney",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Lincolnshire Domesday', (London, 1992), f. 355",
+"lat": 53.19325,
+"lon": 0.11076,
+"placeId": "48261"
+},
+{
+"name": "Spalding",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.78492,
+"lon": -0.1523,
+"placeId": "57396"
+},
+{
+"name": "Stamford",
+"county": "Lincolnshire",
+"first": "963",
+"source": "M. Swanton ed., 'The Anglo Saxon Chronicle', (London, 1996), p. 116",
+"lat": 52.65203,
+"lon": -0.48171,
+"placeId": "57871"
+},
+{
+"name": "Threekingham",
+"county": "Lincolnshire",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.91236,
+"lon": -0.38188,
+"placeId": "63246"
+},
+{
+"name": "Holt",
+"county": "Norfolk",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.90645,
+"lon": 1.09335,
+"placeId": "32716"
+},
+{
+"name": "Litcham",
+"county": "Norfolk",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.72328,
+"lon": 0.7915,
+"placeId": "39451"
+},
+{
+"name": "Berkeley",
+"county": "Gloucestershire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.6916,
+"lon": -2.46015,
+"placeId": "6266"
+},
+{
+"name": "Cirencester",
+"county": "Gloucestershire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.71766,
+"lon": -1.9682,
+"placeId": "15551"
+},
+{
+"name": "Tewkesbury",
+"county": "Gloucestershire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.99092,
+"lon": -2.15734,
+"placeId": "62021"
+},
+{
+"name": "Thornbury",
+"county": "Gloucestershire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.61307,
+"lon": -2.53014,
+"placeId": "62411"
+},
+{
+"name": "Higham Ferrers",
+"county": "Northamptonshire",
+"first": "1086",
+"source": "Derby, p. 369",
+"lat": 52.30631,
+"lon": -0.59186,
+"placeId": "31676"
+},
+{
+"name": "King'S Sutton",
+"county": "Northamptonshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.02116,
+"lon": -1.27568,
+"placeId": "60761"
+},
+{
+"name": "Oundle",
+"county": "Northamptonshire",
+"first": "1086",
+"source": "I.B. Terrett, 'Northamptonshire' in H.C. Darby and I.B. Terrett eds., 'The Domesday Geography of Midland England', (Camb",
+"lat": 52.47686,
+"lon": -0.49512,
+"placeId": "47606"
+},
+{
+"name": "Peterborough",
+"county": "Northamptonshire",
+"first": "963",
+"source": "M. Swanton ed., 'The Anglo Saxon Chronicle', (London, 1996), p. 116",
+"lat": 52.57316,
+"lon": -0.24092,
+"placeId": "48961"
+},
+{
+"name": "Crewkerne",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 50.88403,
+"lon": -2.79623,
+"placeId": "18616"
+},
+{
+"name": "Frome",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 51.22984,
+"lon": -2.32091,
+"placeId": "26021"
+},
+{
+"name": "Ilchester",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 51.00076,
+"lon": -2.68278,
+"placeId": "34616"
+},
+{
+"name": "Ilminster",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 50.92726,
+"lon": -2.91082,
+"placeId": "34691"
+},
+{
+"name": "Milborne Port",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 50.96857,
+"lon": -2.46154,
+"placeId": "43031"
+},
+{
+"name": "Milverton",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 51.0257,
+"lon": -3.255,
+"placeId": "43316"
+},
+{
+"name": "Taunton",
+"county": "Somerset",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 51.01371,
+"lon": -3.1064,
+"placeId": "61731"
+},
+{
+"name": "Basingstoke",
+"county": "Hampshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.26538,
+"lon": -1.0884,
+"placeId": "5006"
+},
+{
+"name": "Neatham",
+"county": "Hampshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.16068,
+"lon": -0.93743,
+"placeId": "44796"
+},
+{
+"name": "Titchfield",
+"county": "Hampshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 50.84913,
+"lon": -1.23293,
+"placeId": "63976"
+},
+{
+"name": "Winchester",
+"county": "Hampshire",
+"first": "c. 900",
+"source": "F. Barlow, M. Biddle, O von Feilitzen, D.J. Keene, 'Winchester in the Early Middle Ages: an edition and discussion of th",
+"lat": 51.06279,
+"lon": -1.31646,
+"placeId": "70981"
+},
+{
+"name": "Beccles",
+"county": "Suffolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.45877,
+"lon": 1.56395,
+"placeId": "5436"
+},
+{
+"name": "Blythburgh",
+"county": "Suffolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.32108,
+"lon": 1.59543,
+"placeId": "7766"
+},
+{
+"name": "Bury St Edmunds",
+"county": "Suffolk",
+"first": "1066x87",
+"source": "CChR, 1341-1417, p. 397",
+"lat": 52.24295,
+"lon": 0.71727,
+"placeId": "12176"
+},
+{
+"name": "Clare",
+"county": "Suffolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.07964,
+"lon": 0.58033,
+"placeId": "15651"
+},
+{
+"name": "Eye",
+"county": "Suffolk",
+"first": "1066x86",
+"source": "VCH Suffolk, i, p. 515",
+"lat": 52.31937,
+"lon": 1.152,
+"placeId": "24031"
+},
+{
+"name": "Haverhill",
+"county": "Suffolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.08265,
+"lon": 0.43891,
+"placeId": "30346"
+},
+{
+"name": "Hoxne",
+"county": "Suffolk",
+"first": "ante 1066",
+"source": "Darby, p. 370",
+"lat": 52.35222,
+"lon": 1.20134,
+"placeId": "33776"
+},
+{
+"name": "Kelsale",
+"county": "Suffolk",
+"first": "gr 1066x86",
+"source": "VCH Suffolk, i, p. 469",
+"lat": 52.23321,
+"lon": 1.49602,
+"placeId": "35416"
+},
+{
+"name": "Stowmarket",
+"county": "Suffolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.18851,
+"lon": 0.99638,
+"placeId": "59766"
+},
+{
+"name": "Sudbury",
+"county": "Suffolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.0385,
+"lon": 0.72963,
+"placeId": "60361"
+},
+{
+"name": "Aylesbury",
+"county": "Buckinghamshire",
+"first": "1086",
+"source": "BF, p. 70",
+"lat": 51.8178,
+"lon": -0.8161,
+"placeId": "3541"
+},
+{
+"name": "Arundel",
+"county": "Sussex",
+"first": "1086",
+"source": "",
+"lat": 50.85532,
+"lon": -0.55791,
+"placeId": "2256"
+},
+{
+"name": "Battle",
+"county": "Sussex",
+"first": "1066x87, possibly 1066x70",
+"source": "Regesta, 1066-87, no. 13",
+"lat": 50.91864,
+"lon": 0.48848,
+"placeId": "5196"
+},
+{
+"name": "Bramber",
+"county": "Sussex",
+"first": "1086",
+"source": "Regesta 1066-87, no. 146",
+"lat": 50.88265,
+"lon": -0.31537,
+"placeId": "9126"
+},
+{
+"name": "Lewes",
+"county": "Sussex",
+"first": "1066",
+"source": "VCH Sussex, i, p. 435",
+"lat": 50.87387,
+"lon": 0.01127,
+"placeId": "39036"
+},
+{
+"name": "Steyning",
+"county": "Sussex",
+"first": "1086",
+"source": "Regesta 1066-87, no. 146",
+"lat": 50.88731,
+"lon": -0.32657,
+"placeId": "58786"
+},
+{
+"name": "Arlesey",
+"county": "Bedfordshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.02317,
+"lon": -0.26406,
+"placeId": "2101"
+},
+{
+"name": "Leighton Buzzard",
+"county": "Bedfordshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.9151,
+"lon": -0.66522,
+"placeId": "38721"
+},
+{
+"name": "Luton",
+"county": "Bedfordshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.87876,
+"lon": -0.41784,
+"placeId": "40591"
+},
+{
+"name": "Melton Mowbray",
+"county": "Leicestershire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.76532,
+"lon": -0.88688,
+"placeId": "42401"
+},
+{
+"name": "Faversham",
+"county": "Kent",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Kent Domesday', (London, 1992), f2v; Darby, p. 369",
+"lat": 51.3132,
+"lon": 0.893,
+"placeId": "24536"
+},
+{
+"name": "Lewisham",
+"county": "Kent",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Kent Domesday', (London, 1992), f12v; Darby, p. 369; ",
+"lat": 51.45712,
+"lon": -0.01356,
+"placeId": "39041"
+},
+{
+"name": "Newenden",
+"county": "Kent",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 51.01485,
+"lon": 0.61341,
+"placeId": "45111"
+},
+{
+"name": "St Albans",
+"county": "Hertfordshire",
+"first": "c.950",
+"source": "Beresford, p. 326; VCH Hertfordshire, ii, p. 470",
+"lat": 51.7527,
+"lon": -0.34111,
+"placeId": "53361"
+},
+{
+"name": "Hereford",
+"county": "Herefordshire",
+"first": "1086",
+"source": "Darby, p. 369",
+"lat": 52.0563,
+"lon": -2.71622,
+"placeId": "31321"
+},
+{
+"name": "Tutbury",
+"county": "Staffordshire",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.85915,
+"lon": -1.68808,
+"placeId": "65626"
+},
+{
+"name": "Bodmin",
+"county": "Cornwall",
+"first": "1086",
+"source": "Darby, p. 369; BF, p. 76",
+"lat": 50.47097,
+"lon": -4.71877,
+"placeId": "7916"
+},
+{
+"name": "Launceston",
+"county": "Cornwall",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Cornwall Domesday' (London, 1988), p. 8, f120v",
+"lat": 50.63708,
+"lon": -4.36199,
+"placeId": "37991"
+},
+{
+"name": "Liskeard",
+"county": "Cornwall",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Cornwall Domesday' (London, 1988), p. 8, f120v; Darby, p. 369",
+"lat": 50.45499,
+"lon": -4.46704,
+"placeId": "39421"
+},
+{
+"name": "Methleigh",
+"county": "Cornwall",
+"first": "1066",
+"source": "C. Thorn and F. Thorn eds, 'Domesday Book: Cornwall', (Chichester, 1979), 2, 2",
+"lat": 50.08998,
+"lon": -5.32364,
+"placeId": "42676"
+},
+{
+"name": "St Germans",
+"county": "Cornwall",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Cornwall Domesday' (London, 1988), p. vii, f120v; Darby, p. 369",
+"lat": 50.39703,
+"lon": -4.31064,
+"placeId": "53406"
+},
+{
+"name": "Trematon",
+"county": "Cornwall",
+"first": "1086",
+"source": "Alecto Historical Editions, 'The Cornwall Domesday' (London, 1988), p. 8, f122",
+"lat": 50.41595,
+"lon": -4.26369,
+"placeId": "64946"
+},
+{
+"name": "Okehampton",
+"county": "Devon",
+"first": "1086",
+"source": "Darby, p. 369; Alecto Historical Editions, 'The Devonshire Domesday', (London, 1991) f105v",
+"lat": 50.73823,
+"lon": -4.0042,
+"placeId": "46966"
+},
+{
+"name": "Otterton",
+"county": "Devon",
+"first": "1086",
+"source": "VCH Devon, i, p. 435",
+"lat": 50.65912,
+"lon": -3.30323,
+"placeId": "47551"
+}
+],
+"markets_unmatched": [
+{
+"name": "Great Dunham",
+"county": "Norfolk",
+"first": "1086",
+"source": "Darby, p. 370",
+"lat": 52.69506,
+"lon": 0.7675
+},
+{
+"name": "Durham",
+"county": "Durham",
+"first": "1040",
+"source": "M. Bonney, 'Lordship and the Urban Community: Durham and its Overlords 1250-1540', (Cambridge, 1990), p. 26; Beresford, ",
+"lat": 54.77257,
+"lon": -1.57553
+},
+{
+"name": "St Michael'S Mount",
+"county": "Cornwall",
+"first": "gr in or ante 1084",
+"source": "P.L. Hull ed., 'The Cartulary of St Michael's Mount', Devon and Cornwall record society, ns vol. v, (Torquay, 1962), no.",
+"lat": 50.11605,
+"lon": -5.47796
+},
+{
+"name": "St Stephens",
+"county": "Cornwall",
+"first": "1066",
+"source": "Alecto Historical Editions, 'The Cornwall Domesday' (London, 1988), p. 8, f120v",
+"lat": 50.63604,
+"lon": -4.36901
+}
+]
+}

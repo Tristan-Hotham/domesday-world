@@ -1,0 +1,1179 @@
+placeId,name,county,hundred,kind,dwellings_estimated,method
+14871,Chicksands,BDF,Clifton,no usable figure,8,ploughlands (3.5) x the county median of 2.35 households per unit
+48931,Pertenhall,BDF,Leightonstone,no usable figure,1,ploughlands (0.5) x the county median of 2.35 households per unit
+53606,Salph [End],BDF,Barford,no usable figure,19,ploughlands (8) x the county median of 2.35 households per unit
+26846,[Nares] Gladley,BDF,Stanbridge,no usable figure,2,ploughlands (1) x the county median of 2.35 households per unit
+23266,`Elvedon',BDF,Stodden,no usable figure,4,ploughlands (1.5) x the county median of 2.35 households per unit
+55726,`Shirdon',BDF,Stodden,no usable figure,1,value in 1086 (12) x the county median of 0.01 households per unit
+37581,Langley?,BRK,Reading,no usable figure,2,hides or carucates (1) x the county median of 2.42 households per unit
+60566,`Sutton',BRK,Wantage,no usable figure,1,value in 1086 (16) x the county median of 0.01 households per unit
+57246,Southcote,BUK,Stone,no usable figure,1,ploughlands (0.5) x the county median of 2.14 households per unit
+2666,Ashley,CAM,Cheveley,no usable figure,14,plough teams (4) x the county median of 3.54 households per unit
+28436,Hainey,CAM,Ely 2,no usable figure,2,hides or carucates (0.5) x the county median of 3.60 households per unit
+551,Ainsdale,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+1101,Allerton,CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+1146,Allington,CHS,Maelor Cymraeg,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 4.00 households per unit, capped at the median vill of its hundred (3)"
+1321,Alsager,CHS,Northwich,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+1961,Appleton,CHS,Bucklow (West),"waste, nobody counted",5,"dwellings left empty, from ploughlands (4) x the county median of 2.00 households per unit, capped at the median vill of its hundred (5)"
+2071,Argarmeles,CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+2671,Ashley,CHS,Bucklow (East),"waste, nobody counted",1,"dwellings left empty, from hides or carucates (0.25) x the county median of 4.00 households per unit"
+2831,Ashton [-under-Lyne],CHS,Salford,no usable figure,3,hides or carucates (0.667) x the county median of 4.00 households per unit
+3361,Aughton,CHS,West Derby,no usable figure,1,value in 1066 (32) x the county median of 0.03 households per unit
+3736,Baddiley,CHS,Nantwich,no usable figure,3,plough teams (1) x the county median of 3.38 households per unit
+3911,Baguley,CHS,Bucklow (East),"waste, nobody counted",2,"dwellings left empty, from ploughlands (0.75) x the county median of 2.00 households per unit"
+4746,Barton,CHS,West Derby,no usable figure,1,value in 1066 (32) x the county median of 0.03 households per unit
+7406,Blackburn,CHS,Blackburn,no usable figure,5,"hides or carucates (51.75) x the county median of 4.00 households per unit, capped at the median vill of its hundred (5)"
+8276,Bosley,CHS,Macclesfield,"waste, nobody counted",5,"dwellings left empty, from ploughlands (4) x the county median of 2.00 households per unit, capped at the median vill of its hundred (4.5)"
+12256,Butley,CHS,Macclesfield,"waste, nobody counted",5,"dwellings left empty, from ploughlands (10) x the county median of 2.00 households per unit, capped at the median vill of its hundred (4.5)"
+12991,Capesthorne,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+14471,Chelford,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+16251,Clive,CHS,Northwich,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1.167) x the county median of 2.00 households per unit"
+19496,Dalton,CHS,West Derby,no usable figure,1,value in 1066 (32) x the county median of 0.03 households per unit
+20951,Downholland,CHS,West Derby,no usable figure,1,value in 1066 (24) x the county median of 0.03 households per unit
+21291,Duckington,CHS,Broxton,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+21781,Eanley,CHS,Bucklow (West),"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.00 households per unit"
+22456,Eddisbury,CHS,Eddisbury (North),"waste, nobody counted",9,"dwellings left empty, from ploughlands (6) x the county median of 2.00 households per unit, capped at the median vill of its hundred (9)"
+25451,Formby,CHS,West Derby,no usable figure,4,value in 1066 (120) x the county median of 0.03 households per unit
+26551,Gawsworth,CHS,Macclesfield,"waste, nobody counted",5,"dwellings left empty, from ploughlands (6) x the county median of 2.00 households per unit, capped at the median vill of its hundred (4.5)"
+27231,Goostrey,CHS,Northwich,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1.5) x the county median of 2.00 households per unit"
+28336,Hadlow,CHS,Wirral,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+28606,Halsall,CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+28951,Hampton,CHS,Broxton,no usable figure,6,"ploughlands (4) x the county median of 2.00 households per unit, capped at the median vill of its hundred (6)"
+31136,Henbury,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+32531,Hollingworth,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+33981,Huncoat,CHS,Blackburn,no usable figure,5,"plough teams (3.833) x the county median of 3.38 households per unit, capped at the median vill of its hundred (5)"
+34211,Hurlston,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+34396,Huyton,CHS,West Derby,no usable figure,4,ploughlands (2) x the county median of 2.00 households per unit
+34761,Ince [Blundell],CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+35696,Kermincham,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+36661,Kirkby,CHS,West Derby,no usable figure,1,hides or carucates (0.333) x the county median of 4.00 households per unit
+36756,Kirkdale,CHS,West Derby,no usable figure,4,value in 1066 (120) x the county median of 0.03 households per unit
+37131,Knowsley,CHS,West Derby,no usable figure,1,hides or carucates (0.333) x the county median of 4.00 households per unit
+37156,Knutsford,CHS,Bucklow (East),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+37211,Lache,CHS,Ati's Cross,"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.00 households per unit"
+37921,Lathom,CHS,West Derby,no usable figure,4,value in 1066 (128) x the county median of 0.03 households per unit
+40716,Lydiate,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+40961,Maghull,CHS,West Derby,no usable figure,1,hides or carucates (0.333) x the county median of 4.00 households per unit
+41151,Manchester,CHS,Salford,no usable figure,3,hides or carucates (0.667) x the county median of 4.00 households per unit
+41186,Manley,CHS,Eddisbury (North),no usable figure,2,ploughlands (1) x the county median of 2.00 households per unit
+41861,Martin,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+41916,Marton,CHS,Macclesfield,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1.5) x the county median of 2.00 households per unit"
+42326,Melling,CHS,West Derby,no usable figure,4,value in 1066 (120) x the county median of 0.03 households per unit
+42546,Mere,CHS,Bucklow (East),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+42951,Middlewich,CHS,Northwich,no usable figure,5,"value in 1086 (300) x the county median of 0.04 households per unit, capped at the median vill of its hundred (5)"
+43136,Millington,CHS,Bucklow (East),"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+44206,Mottram [St Andrew],CHS,Macclesfield,"waste, nobody counted",5,"dwellings left empty, from ploughlands (4) x the county median of 2.00 households per unit, capped at the median vill of its hundred (4.5)"
+45586,Newton [le Willows],CHS,Newton,no usable figure,5,"value in 1086 (360) x the county median of 0.04 households per unit, capped at the median vill of its hundred (5)"
+45986,Northenden,CHS,Bucklow (East),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+46736,Occleston,CHS,Northwich,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1.167) x the county median of 2.00 households per unit"
+47596,Oulton,CHS,Eddisbury (South),"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+47701,Overton,CHS,Broxton,no usable figure,3,plough teams (1) x the county median of 3.38 households per unit
+48611,Pendleton,CHS,Blackburn,no usable figure,5,"plough teams (3.833) x the county median of 3.38 households per unit, capped at the median vill of its hundred (5)"
+50811,Radcliffe,CHS,Salford,no usable figure,3,hides or carucates (0.667) x the county median of 4.00 households per unit
+50876,Radington,CHS,Deeside,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+52151,Roby,CHS,West Derby,no usable figure,1,hides or carucates (0.333) x the county median of 4.00 households per unit
+52446,Romiley,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+52591,Rostherne,CHS,Bucklow (East),"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+53146,Rushton,CHS,Eddisbury (South),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+54656,Sefton,CHS,West Derby,no usable figure,5,"value in 1066 (192) x the county median of 0.03 households per unit, capped at the median vill of its hundred (5)"
+56211,Sinderland,CHS,Bucklow (East),"waste, nobody counted",2,"dwellings left empty, from ploughlands (0.75) x the county median of 2.00 households per unit"
+56321,Skelmersdale,CHS,West Derby,no usable figure,1,value in 1066 (32) x the county median of 0.03 households per unit
+56691,Smithdown,CHS,West Derby,no usable figure,1,value in 1066 (32) x the county median of 0.03 households per unit
+56781,Snelson,CHS,Bucklow (East),"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.00 households per unit"
+57026,Somerford,CHS,Northwich,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 2.00 households per unit"
+57466,Speke,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+61566,Tarbock,CHS,West Derby,no usable figure,4,ploughlands (2) x the county median of 2.00 households per unit
+62581,Thornton,CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+63931,Tintwistle,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+64626,Toxteth,CHS,West Derby,no usable figure,2,value in 1086 (48) x the county median of 0.04 households per unit
+67141,Walton [-le-Dale],CHS,Blackburn,no usable figure,5,"plough teams (3.833) x the county median of 3.38 households per unit, capped at the median vill of its hundred (5)"
+67151,Walton [on the Hill],CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+67556,Warrington,CHS,Warrington,no usable figure,5,"plough teams (9) x the county median of 3.38 households per unit, capped at the median vill of its hundred (5)"
+67881,Wavertree,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+68541,Werneth,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+39471,[Down] Litherland,CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+11286,[Little] Budworth,CHS,Eddisbury (South),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+72526,[Little] Woolton,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+72531,[Much] Woolton,CHS,West Derby,no usable figure,1,value in 1066 (30) x the county median of 0.03 households per unit
+61351,[Nether] Tabley,CHS,Bucklow (East),"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.00 households per unit"
+42481,[North] Meols,CHS,West Derby,no usable figure,4,value in 1066 (120) x the county median of 0.03 households per unit
+52276,[North] Rode,CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+811,[Over] Alderley,CHS,Macclesfield,"waste, nobody counted",5,"dwellings left empty, from ploughlands (4) x the county median of 2.00 households per unit, capped at the median vill of its hundred (4.5)"
+61356,[Over] Tabley,CHS,Bucklow (East),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+42486,[Raven] Meols,CHS,West Derby,no usable figure,3,value in 1066 (96) x the county median of 0.03 households per unit
+39476,[Up] Litherland,CHS,West Derby,no usable figure,1,value in 1066 (32) x the county median of 0.03 households per unit
+66166,[Up]holland,CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+1306,`Alretone',CHS,Eddisbury (South),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+1311,`Alretunstall',CHS,Bucklow (East),"waste, nobody counted",2,"dwellings left empty, from hides or carucates (0.375) x the county median of 4.00 households per unit"
+13996,`Chapmonswiche',CHS,Bucklow (East),"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.00 households per unit"
+17301,`Conersley',CHS,Eddisbury (North),"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+38701,`Leighton',CHS,Macclesfield,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.00 households per unit"
+911,{Aldredelie},CHS,Eddisbury (North),"waste, nobody counted",9,"dwellings left empty, from ploughlands (6) x the county median of 2.00 households per unit, capped at the median vill of its hundred (9)"
+34046,{Hungrewenitune},CHS,Macclesfield,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (0.5) x the county median of 4.00 households per unit"
+69961,{Wibaldeslei},CHS,West Derby,no usable figure,2,value in 1066 (64) x the county median of 0.03 households per unit
+17416,Constantine,CON,Winnianton,no usable figure,8,ploughlands (4) x the county median of 2.08 households per unit
+53426,St Keverne,CON,Winnianton,no usable figure,12,"ploughlands (7) x the county median of 2.08 households per unit, capped at the median vill of its hundred (12)"
+64171,Tolcarne,CON,Pawton,no usable figure,4,hides or carucates (0.312) x the county median of 13.33 households per unit
+64821,Tregona,CON,Pawton,no usable figure,4,hides or carucates (0.312) x the county median of 13.33 households per unit
+64976,Tremore,CON,Pawton,no usable figure,4,hides or carucates (0.312) x the county median of 13.33 households per unit
+65021,Treninnick,CON,Pawton,no usable figure,4,hides or carucates (0.312) x the county median of 13.33 households per unit
+65186,Trevornick,CON,Pawton,no usable figure,4,hides or carucates (0.312) x the county median of 13.33 households per unit
+53501,[St Stephens by] Launceston,CON,Rillaton,no usable figure,9,"ploughlands (20) x the county median of 2.08 households per unit, capped at the median vill of its hundred (9)"
+65016,`Trenhale',CON,Pawton,no usable figure,4,hides or carucates (0.312) x the county median of 13.33 households per unit
+91,Abney,DBY,High Peak,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.56 households per unit"
+1136,Allestree,DBY,Morleyston,"waste, nobody counted",6,"dwellings left empty, from ploughlands (1.333) x the county median of 4.56 households per unit"
+3291,Atlow,DBY,Appletree,no usable figure,9,ploughlands (2) x the county median of 4.56 households per unit
+7116,Birchover,DBY,High Peak,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.56 households per unit"
+21301,Duckmanton,DBY,Scarsdale,no usable figure,11,"plough teams (5) x the county median of 3.00 households per unit, capped at the median vill of its hundred (10.5)"
+29861,Hartington,DBY,Wirksworth,"waste, nobody counted",9,"dwellings left empty, from ploughlands (2) x the county median of 4.56 households per unit"
+29931,Hartshorne,DBY,Repton,"waste, nobody counted",8,"dwellings left empty, from ploughlands (6) x the county median of 4.56 households per unit, capped at the median vill of its hundred (8)"
+35221,Ivonbrook,DBY,High Peak,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.56 households per unit"
+35946,Kidsley,DBY,Morleyston,no usable figure,4,hides or carucates (0.833) x the county median of 5.00 households per unit
+37056,Kniveton,DBY,Wirksworth,"waste, nobody counted",6,"dwellings left empty, from ploughlands (1.333) x the county median of 4.56 households per unit"
+39371,Linton,DBY,Repton,"waste, nobody counted",5,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+39956,Longdendale,DBY,High Peak,"waste, nobody counted",9,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (8.5)"
+40901,Mackworth,DBY,Morleyston,"waste, nobody counted",6,"dwellings left empty, from ploughlands (1.333) x the county median of 4.56 households per unit"
+41346,Mapperley,DBY,Appletree,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (192) x the county median of 0.02 households per unit"
+42891,Middleton [-by-Youlgrave],DBY,Wirksworth,"waste, nobody counted",9,"dwellings left empty, from ploughlands (2) x the county median of 4.56 households per unit"
+45361,Newton,DBY,Wirksworth,"waste, nobody counted",18,"dwellings left empty, from ploughlands (4) x the county median of 4.56 households per unit, capped at the median vill of its hundred (17.5)"
+49221,Pilsbury,DBY,Wirksworth,"waste, nobody counted",9,"dwellings left empty, from ploughlands (2) x the county median of 4.56 households per unit"
+49236,Pilsley,DBY,High Peak,"waste, nobody counted",9,"dwellings left empty, from ploughlands (2) x the county median of 4.56 households per unit, capped at the median vill of its hundred (8.5)"
+56606,Smalley,DBY,Morleyston,no usable figure,4,hides or carucates (0.833) x the county median of 5.00 households per unit
+63286,Thringstone,DBY,Repton,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+67036,Walton,DBY,Scarsdale,"waste, nobody counted",11,"dwellings left empty, from ploughlands (3) x the county median of 4.56 households per unit, capped at the median vill of its hundred (10.5)"
+67746,Waterfield,DBY,High Peak,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.56 households per unit"
+72781,Wormhill,DBY,High Peak,"waste, nobody counted",9,"dwellings left empty, from ploughlands (4) x the county median of 4.56 households per unit, capped at the median vill of its hundred (8.5)"
+6151,[Hungry] Bentley,DBY,Appletree,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.56 households per unit"
+27776,`Greyhurst',DBY,Scarsdale,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (0.25) x the county median of 5.00 households per unit"
+41646,`Marsh',DBY,Morleyston,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (0.5) x the county median of 5.00 households per unit"
+56941,`Soham',DBY,Wirksworth,"waste, nobody counted",9,"dwellings left empty, from ploughlands (2) x the county median of 4.56 households per unit"
+15326,Chittleburn,DEV,Plympton,no usable figure,4,ploughlands (2) x the county median of 2.20 households per unit
+23601,Essebeare,DEV,Witheridge,no usable figure,1,ploughlands (0.5) x the county median of 2.20 households per unit
+26251,Furze,DEV,Braunton,"waste, nobody counted",7,"dwellings left empty, from ploughlands (3) x the county median of 2.20 households per unit"
+26701,Gidleigh,DEV,Wonford,no usable figure,2,ploughlands (1) x the county median of 2.20 households per unit
+32376,Holcombe,DEV,Exminster,no usable figure,2,ploughlands (1) x the county median of 2.20 households per unit
+32551,Hollowcombe,DEV,Fremington,no usable figure,2,ploughlands (1) x the county median of 2.20 households per unit
+32961,Hook,DEV,North Tawton,no usable figure,4,ploughlands (2) x the county median of 2.20 households per unit
+34956,Instaple,DEV,Black Torrington,no usable figure,2,ploughlands (1) x the county median of 2.20 households per unit
+42261,Melbury,DEV,Black Torrington,"waste, nobody counted",4,"dwellings left empty, from hides or carucates (0.25) x the county median of 16.00 households per unit"
+48421,Peadhill,DEV,Tiverton,no usable figure,3,plough teams (1) x the county median of 3.20 households per unit
+56116,Sigford,DEV,Teignbridge,no usable figure,3,ploughlands (1.5) x the county median of 2.20 households per unit
+59061,Stoke,DEV,Hartland,no usable figure,8,"ploughlands (12) x the county median of 2.20 households per unit, capped at the median vill of its hundred (8)"
+59741,Stowford,DEV,Budleigh (East),no usable figure,7,ploughlands (3) x the county median of 2.20 households per unit
+69651,Whitefield,DEV,Shirwell,"waste, nobody counted",4,"dwellings left empty, from ploughlands (2) x the county median of 2.20 households per unit"
+5691,`Beer',DEV,Colyton,no usable figure,4,ploughlands (2) x the county median of 2.20 households per unit
+6571,Bhompston,DOR,St George,no usable figure,8,plough teams (2) x the county median of 4.04 households per unit
+7416,Blackmanston,DOR,Hasler,no usable figure,6,"ploughlands (2) x the county median of 3.20 households per unit, capped at the median vill of its hundred (6)"
+10336,Brockington,DOR,Knowlton,no usable figure,3,ploughlands (1) x the county median of 3.20 households per unit
+14776,Chettle,DOR,Cranborne,no usable figure,3,ploughlands (1) x the county median of 3.20 households per unit
+31381,Herston,DOR,Rowbarrow,no usable figure,2,ploughlands (0.5) x the county median of 3.20 households per unit
+32741,Holton,DOR,Winfrith,no usable figure,2,ploughlands (0.5) x the county median of 3.20 households per unit
+32786,Holwell,DOR,Cullifordtree,no usable figure,5,ploughlands (1.5) x the county median of 3.20 households per unit
+34706,Ilsington,DOR,Puddletown,no usable figure,5,ploughlands (1.5) x the county median of 3.20 households per unit
+47781,Ower,DOR,Rowbarrow,no usable figure,3,value in 1086 (240) x the county median of 0.01 households per unit
+50126,Preston,DOR,Cranborne,no usable figure,3,ploughlands (1) x the county median of 3.20 households per unit
+52406,Rollington,DOR,Rowbarrow,no usable figure,6,ploughlands (2) x the county median of 3.20 households per unit
+64086,Todber,DOR,Gillingham and Redlane,no usable figure,4,plough teams (1) x the county median of 4.04 households per unit
+69616,Whitchurch [Canonicorum],DOR,Whitchurch Canonicorum,no usable figure,7,value in 1086 (560) x the county median of 0.01 households per unit
+31791,[Gold] Hill,DOR,Gillingham and Redlane,no usable figure,4,plough teams (1) x the county median of 4.04 households per unit
+46811,`Odenham',DOR,Badbury,no usable figure,2,ploughlands (0.5) x the county median of 3.20 households per unit
+62461,`Thorne',DOR,Rowbarrow,no usable figure,4,plough teams (1) x the county median of 4.04 households per unit
+7821,Bockingham,ESS,Lexden,no usable figure,1,value in 1086 (32) x the county median of 0.01 households per unit
+18131,Cowbridge,ESS,Chelmsford,no usable figure,1,value in 1086 (120) x the county median of 0.01 households per unit
+20561,Doddinghurst,ESS,Barstable,no usable figure,4,plough teams (1) x the county median of 3.59 households per unit
+25581,Fouchers,ESS,Chelmsford,no usable figure,4,plough teams (1) x the county median of 3.59 households per unit
+39056,Lexden,ESS,Lexden,no usable figure,28,hides or carucates (5) x the county median of 5.50 households per unit
+45001,Nevendon,ESS,Barstable,no usable figure,1,value in 1086 (88) x the county median of 0.01 households per unit
+56491,Slampseys,ESS,Witham,no usable figure,1,value in 1086 (30) x the county median of 0.01 households per unit
+56621,Smalton,ESS,Hinckford,no usable figure,1,value in 1086 (36) x the county median of 0.01 households per unit
+12381,{Byrton},ESS,Lexden,no usable figure,2,plough teams (0.5) x the county median of 3.59 households per unit
+27561,{Gravesend},ESS,Barstable,no usable figure,4,plough teams (1) x the county median of 3.59 households per unit
+44666,{Napsted},ESS,Hinckford,no usable figure,4,plough teams (1) x the county median of 3.59 households per unit
+7446,Blacksworth,GLS,Swinehead,no usable figure,1,value in 1086 (24) x the county median of 0.02 households per unit
+12506,Caerleon,GLS,Edlogan,no usable figure,18,"value in 1086 (1800) x the county median of 0.02 households per unit, capped at the median vill of its hundred (18)"
+15556,Cirencester Rectory,GLS,Cirencester,no usable figure,7,value in 1086 (480) x the county median of 0.02 households per unit
+28901,Hampen,GLS,Wattlescomb,no usable figure,2,plough teams (1) x the county median of 2.33 households per unit
+29676,Harnhill,GLS,Garsdon,no usable figure,16,"hides or carucates (5) x the county median of 3.33 households per unit, capped at the median vill of its hundred (15.5)"
+31516,Hewelsfield,GLS,Lydney,no usable figure,5,value in 1066 (360) x the county median of 0.01 households per unit
+54986,Sharpness,GLS,Berkeley,no usable figure,13,"hides or carucates (5) x the county median of 3.33 households per unit, capped at the median vill of its hundred (12.5)"
+55701,Shipton [Solers],GLS,Wattlescomb,no usable figure,2,plough teams (1) x the county median of 2.33 households per unit
+58496,Staunton,GLS,Bromsash,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (1) x the county median of 3.33 households per unit"
+58591,Stears,GLS,Westbury,no usable figure,1,value in 1086 (60) x the county median of 0.02 households per unit
+60216,Sturden,GLS,Swinehead,no usable figure,2,plough teams (1) x the county median of 2.33 households per unit
+65261,Trewsbury,GLS,Cirencester,no usable figure,2,plough teams (1) x the county median of 2.33 households per unit
+69096,Westonbirt,GLS,Longtree,no usable figure,10,hides or carucates (3) x the county median of 3.33 households per unit
+70956,Winchcombe,GLS,Greston,no usable figure,21,"value in 1086 (6720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (21)"
+72116,Woodchester,GLS,Longtree,no usable figure,16,"value in 1086 (1680) x the county median of 0.02 households per unit, capped at the median vill of its hundred (16)"
+73281,Wyegate,GLS,Lydney,no usable figure,2,value in 1086 (120) x the county median of 0.02 households per unit
+51376,[Lower] Redbrook,GLS,Bromsash,"waste, nobody counted",8,"dwellings left empty, from hides or carucates (2.5) x the county median of 3.33 households per unit"
+21431,`Duni',GLS,Westbury,no usable figure,2,hides or carucates (0.5) x the county median of 3.33 households per unit
+45016,`Newarne',GLS,Bromsash,no usable figure,8,hides or carucates (2.5) x the county median of 3.33 households per unit
+47006,`Oldbury',GLS,Rapsgate,no usable figure,2,value in 1086 (120) x the county median of 0.02 households per unit
+69506,`Whippington',GLS,Bromsash,"waste, nobody counted",10,"dwellings left empty, from hides or carucates (3) x the county median of 3.33 households per unit"
+1206,Allum,HAM,Boldre,no usable figure,6,"ploughlands (4) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+3916,Bagwich,HAM,East Medine,no usable figure,2,ploughlands (0.5) x the county median of 3.71 households per unit
+5126,Bathingbourne,HAM,East Medine,no usable figure,5,"ploughlands (1.5) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5)"
+5211,Battramsley,HAM,Boldre,no usable figure,6,"ploughlands (5) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+7961,Bolderford,HAM,Boldre,no usable figure,6,"value in 1066 (2400) x the county median of 0.01 households per unit, capped at the median vill of its hundred (5.5)"
+7966,Boldre,HAM,Boldre,no usable figure,6,"value in 1066 (720) x the county median of 0.01 households per unit, capped at the median vill of its hundred (5.5)"
+9296,Bramshaw,HAM,Frustfield,no usable figure,2,ploughlands (0.5) x the county median of 3.71 households per unit
+10591,Brookley,HAM,Boldre,no usable figure,6,"ploughlands (3) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+18251,Coxlease,HAM,Boldre,no usable figure,6,"ploughlands (2) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+23336,Embley,HAM,Broughton,"waste, nobody counted",2,"dwellings left empty, from ploughlands (0.5) x the county median of 3.71 households per unit"
+23931,Exbury,HAM,Redbridge,no usable figure,7,value in 1066 (480) x the county median of 0.01 households per unit
+24051,Eyeworth,HAM,Fordingbridge,no usable figure,2,value in 1066 (120) x the county median of 0.01 households per unit
+26526,Gatewood,HAM,Redbridge,no usable figure,8,"ploughlands (5) x the county median of 3.71 households per unit, capped at the median vill of its hundred (7.5)"
+27951,Gritnam,HAM,Boldre,no usable figure,6,"value in 1066 (480) x the county median of 0.01 households per unit, capped at the median vill of its hundred (5.5)"
+29386,Hardley,HAM,Redbridge,no usable figure,7,ploughlands (2) x the county median of 3.71 households per unit
+29826,Hartford,HAM,Redbridge,no usable figure,4,value in 1066 (300) x the county median of 0.01 households per unit
+30636,Headley,HAM,Neatham,no usable figure,10,"hides or carucates (8) x the county median of 3.93 households per unit, capped at the median vill of its hundred (10)"
+31941,Hincheslea,HAM,Boldre,no usable figure,6,"ploughlands (2) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+45666,Newton [Stacey],HAM,Barton,no usable figure,4,plough teams (1) x the county median of 3.67 households per unit
+47556,Otterwood,HAM,Redbridge,no usable figure,8,"ploughlands (5) x the county median of 3.71 households per unit, capped at the median vill of its hundred (7.5)"
+49201,Pilley,HAM,Boldre,no usable figure,6,"ploughlands (2) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+52421,Rollstone,HAM,Redbridge,no usable figure,7,ploughlands (2) x the county median of 3.71 households per unit
+61661,Tatchbury,HAM,Redbridge,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.01 households per unit"
+63326,Througham,HAM,Boldre,no usable figure,6,"ploughlands (11) x the county median of 3.71 households per unit, capped at the median vill of its hundred (5.5)"
+70981,Winchester,HAM,Falmer,unsurveyed town,1111,"the low end of historians' estimates of its people about 1100 (5,000) at 4.5 people a household"
+72576,Wootton,HAM,Rowditch,no usable figure,6,"ploughlands (2) x the county median of 3.71 households per unit, capped at the median vill of its hundred (6)"
+72731,[West] Worldham,HAM,Neatham,no usable figure,4,ploughlands (1) x the county median of 3.71 households per unit
+636,{Alalei},HAM,East Medine,no usable figure,4,plough teams (1) x the county median of 3.67 households per unit
+15531,{Cildeest},HAM,Boldre,no usable figure,6,"value in 1066 (1920) x the county median of 0.01 households per unit, capped at the median vill of its hundred (5.5)"
+46496,{Nutlei},HAM,Redbridge,no usable figure,7,ploughlands (2) x the county median of 3.71 households per unit
+57141,{Soresdene},HAM,Andover,no usable figure,11,ploughlands (3) x the county median of 3.71 households per unit
+68531,{Weristetone},HAM,East Medine,no usable figure,4,plough teams (1) x the county median of 3.67 households per unit
+70241,{Wigarestun},HAM,Boldre,no usable figure,1,value in 1066 (60) x the county median of 0.01 households per unit
+511,Ailey,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from ploughlands (12) x the county median of 2.50 households per unit, capped at the median vill of its hundred (9)"
+1211,Almeley,HEF,Elsdon,no usable figure,9,"ploughlands (8) x the county median of 2.50 households per unit, capped at the median vill of its hundred (9)"
+4761,Barton,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (2.861) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+5291,Baysham,HEF,Archenfield,no usable figure,5,"plough teams (9) x the county median of 2.00 households per unit, capped at the median vill of its hundred (5)"
+7996,Bollingham,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (2.861) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+8971,Bradley,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+9591,Breadward,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (2.861) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+11691,Burlingjobb,HEF,Hazeltree,"waste, nobody counted",10,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit"
+13346,Cascob,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+14876,Chickward,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (4.111) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+15691,Clatterbrune,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+20266,Didley,HEF,Stretford (South),"waste, nobody counted",12,"dwellings left empty, from hides or carucates (10) x the county median of 3.50 households per unit, capped at the median vill of its hundred (12)"
+20421,Discoed,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+20816,Dorstone,HEF,Golden Valley,no usable figure,6,"hides or carucates (7) x the county median of 3.50 households per unit, capped at the median vill of its hundred (6)"
+27711,Grendon,HEF,Plegelgate,no usable figure,10,"ploughlands (8) x the county median of 2.50 households per unit, capped at the median vill of its hundred (9.5)"
+29011,Hampton [Wafre],HEF,Leominster,no usable figure,2,plough teams (1) x the county median of 2.00 households per unit
+29531,Harewood,HEF,Golden Valley,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (4) x the county median of 3.50 households per unit, capped at the median vill of its hundred (6)"
+29536,Harewood,HEF,Archenfield,no usable figure,5,"plough teams (6) x the county median of 2.00 households per unit, capped at the median vill of its hundred (5)"
+29721,Harpton,HEF,Hazeltree,"waste, nobody counted",10,"dwellings left empty, from ploughlands (7.773) x the county median of 2.50 households per unit, capped at the median vill of its hundred (10)"
+34121,Huntington,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (2.861) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+36446,Kington,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (2.861) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+37046,Knill,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+38166,Laysters,HEF,Wolphy,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (48) x the county median of 0.02 households per unit"
+38426,Ledicot,HEF,Hazeltree,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+40071,Longtown,HEF,Ewias,no usable figure,6,the lower quartile of the households of 224 vills in Herefordshire
+42811,Middleton,HEF,Hazeltree,"waste, nobody counted",10,"dwellings left empty, from ploughlands (4.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (10)"
+42966,Middlewood,HEF,Golden Valley,no usable figure,6,"hides or carucates (2) x the county median of 3.50 households per unit, capped at the median vill of its hundred (6)"
+44696,Nash,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+49196,Pilleth,HEF,Hazeltree,"waste, nobody counted",10,"dwellings left empty, from ploughlands (4.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (10)"
+49321,Pipe,HEF,Cutsthorn,no usable figure,1,value in 1086 (60) x the county median of 0.02 households per unit
+53136,Rushock,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (3.861) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+53986,Sawbury [Hill],HEF,Plegelgate,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+59796,Strangford,HEF,Sellack,no usable figure,4,plough teams (2) x the county median of 2.00 households per unit
+60426,Sugwas,HEF,Cutsthorn,no usable figure,2,plough teams (1) x the county median of 2.00 households per unit
+3846,The Bage,HEF,Golden Valley,no usable figure,4,plough teams (2) x the county median of 2.00 households per unit
+63996,Titley,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from ploughlands (6) x the county median of 2.50 households per unit, capped at the median vill of its hundred (9)"
+64001,Titley,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+68741,Westhide,HEF,Thornlaw,no usable figure,6,plough teams (3) x the county median of 2.00 households per unit
+69796,Whitney,HEF,Elsdon,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (4.5) x the county median of 3.50 households per unit, capped at the median vill of its hundred (9)"
+70161,Wicton,HEF,Plegelgate,no usable figure,10,"ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (9.5)"
+72561,Woonton,HEF,Wolphy,no usable figure,1,value in 1086 (48) x the county median of 0.02 households per unit
+73651,Yatton,HEF,Bromsash,no usable figure,8,value in 1086 (360) x the county median of 0.02 households per unit
+9286,[Little] Brampton,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+29726,[Lower] Harpton,HEF,Hazeltree,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3.273) x the county median of 2.50 households per unit"
+50906,[Old] Radnor,HEF,Hazeltree,"waste, nobody counted",10,"dwellings left empty, from ploughlands (30) x the county median of 2.50 households per unit, capped at the median vill of its hundred (10)"
+51386,[Upper] Redbrook,HEF,Bromsash,"waste, nobody counted",4,"dwellings left empty, from hides or carucates (1) x the county median of 3.50 households per unit"
+6311,`Bernaldeston',HEF,Hazeltree,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (2) x the county median of 3.50 households per unit"
+43781,`Moor',HEF,Golden Valley,no usable figure,1,value in 1086 (60) x the county median of 0.02 households per unit
+39281,{Lincumbe},HEF,Radlow,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+71851,{Wluetone},HEF,Golden Valley,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (2) x the county median of 3.50 households per unit, capped at the median vill of its hundred (6)"
+53261,Rye [House],HRT,Braughing,no usable figure,1,ploughlands (0.5) x the county median of 2.65 households per unit
+8361,Botolph Bridge,HUN,Hurstingstone,no usable figure,5,plough teams (2) x the county median of 2.33 households per unit
+4216,Barfreston,KEN,Eastry,no usable figure,1,value in 1086 (120) x the county median of 0.01 households per unit
+28876,Hammil,KEN,Eastry,no usable figure,3,value in 1086 (240) x the county median of 0.01 households per unit
+30411,Hawkhurst,KEN,-,no usable figure,8,the lower quartile of the households of 307 vills in Kent
+42211,Mederclive,KEN,Bewsborough,no usable figure,1,value in 1086 (56) x the county median of 0.01 households per unit
+48106,Palstre [Court],KEN,Bewsborough,no usable figure,1,value in 1086 (48) x the county median of 0.01 households per unit
+51951,Ripe,KEN,Langport,no usable figure,1,value in 1086 (82) x the county median of 0.01 households per unit
+52501,Rooting,KEN,Calehill,no usable figure,4,plough teams (1) x the county median of 4.00 households per unit
+65431,Tudeley,KEN,Washlingstone,no usable figure,4,plough teams (1) x the county median of 4.00 households per unit
+49691,[South] Ponshall,KEN,Bewsborough,no usable figure,1,value in 1086 (96) x the county median of 0.01 households per unit
+13521,Catthorpe,LEC,Guthlaxton,no usable figure,12,plough teams (3.5) x the county median of 3.41 households per unit
+20696,Donisthorpe,LEC,Goscote,"waste, nobody counted",2,"dwellings left empty, from ploughlands (0.5) x the county median of 4.00 households per unit"
+42176,Measham,LEC,Goscote,"waste, nobody counted",12,"dwellings left empty, from ploughlands (3) x the county median of 4.00 households per unit"
+46686,Oakthorpe,LEC,Goscote,"waste, nobody counted",2,"dwellings left empty, from ploughlands (0.5) x the county median of 4.00 households per unit"
+51246,Ravenstone,LEC,Goscote,"waste, nobody counted",4,"dwellings left empty, from ploughlands (1) x the county median of 4.00 households per unit"
+56751,Snarestone,LEC,Guthlaxton,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (1) x the county median of 2.38 households per unit"
+59621,Stoughton,LEC,Gartree,no usable figure,8,ploughlands (2) x the county median of 4.00 households per unit
+70356,Wigston [Parva],LEC,Guthlaxton,no usable figure,3,plough teams (1) x the county median of 3.41 households per unit
+72126,Woodcote,LEC,Goscote,no usable figure,3,plough teams (1) x the county median of 3.41 households per unit
+70726,`Willows',LEC,Goscote,"waste, nobody counted",5,"dwellings left empty, from hides or carucates (2) x the county median of 2.38 households per unit"
+4241,Barholm,LIN,Ness,no usable figure,17,the lower quartile of the households of 16 vills in Ness hundred
+6621,Bicker,LIN,Kirton,no usable figure,15,the lower quartile of the households of 15 vills in Kirton hundred
+7771,Blyton,LIN,Corringham,no usable figure,17,"ploughlands (4.875) x the county median of 5.21 households per unit, capped at the median vill of its hundred (17)"
+11931,Burtoft,LIN,Kirton,no usable figure,1,hides or carucates (0.125) x the county median of 5.24 households per unit
+12096,Burton [upon Stather],LIN,Manley,no usable figure,2,hides or carucates (0.417) x the county median of 5.24 households per unit
+12156,Burwell,LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+13711,Caythorpe,LIN,Loveden,no usable figure,36,the lower quartile of the households of 20 vills in Loveden hundred
+20106,Derby,LIN,Manley,no usable figure,2,hides or carucates (0.417) x the county median of 5.24 households per unit
+27841,Grimsby,LIN,Bradley,no usable figure,25,the lower quartile of the households of 15 vills in Bradley hundred
+28716,Halton [Holegate],LIN,Bolingbroke,no usable figure,2,plough teams (0.5) x the county median of 4.42 households per unit
+32916,Honington,LIN,Threo,no usable figure,17,the lower quartile of the households of 20 vills in Threo hundred
+41921,Marton,LIN,Well,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 5.21 households per unit"
+44406,Mumby,LIN,Calcewath,no usable figure,9,the lower quartile of the households of 37 vills in Calcewath hundred
+44951,Nettleham,LIN,Lawress,no usable figure,13,the lower quartile of the households of 26 vills in Lawress hundred
+45626,Newton [on Trent],LIN,Well,no usable figure,4,hides or carucates (0.833) x the county median of 5.24 households per unit
+47801,Owersby,LIN,Walshcroft,no usable figure,20,the lower quartile of the households of 24 vills in Walshcroft hundred
+51186,Rauceby,LIN,Flaxwell,no usable figure,22,the lower quartile of the households of 14 vills in Flaxwell hundred
+51826,Rigsby,LIN,Calcewath,no usable figure,9,the lower quartile of the households of 37 vills in Calcewath hundred
+52511,Ropsley,LIN,Threo,no usable figure,17,the lower quartile of the households of 20 vills in Threo hundred
+54341,Scothern,LIN,Lawress,no usable figure,13,the lower quartile of the households of 26 vills in Lawress hundred
+56396,Skidbrooke,LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+57021,Somercotes,LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+57686,Stainby,LIN,Beltisloe,no usable figure,9,plough teams (2) x the county median of 4.42 households per unit
+60261,Sturton [by Stow],LIN,Well,no usable figure,9,the lower quartile of the households of 12 vills in Well hundred
+60891,Swaby,LIN,Calcewath,no usable figure,9,the lower quartile of the households of 37 vills in Calcewath hundred
+61681,Tathwell,LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+61801,Tealby,LIN,Walshcroft,no usable figure,20,the lower quartile of the households of 24 vills in Walshcroft hundred
+62086,Thealby,LIN,Manley,no usable figure,13,the lower quartile of the households of 32 vills in Manley hundred
+62106,Theddlethorpe,LIN,Calcewath,no usable figure,9,the lower quartile of the households of 37 vills in Calcewath hundred
+66676,Walcot,LIN,Aveland,no usable figure,16,the lower quartile of the households of 35 vills in Aveland hundred
+66916,Walmsgate,LIN,Hill,no usable figure,5,hides or carucates (1) x the county median of 5.24 households per unit
+68156,Welby,LIN,Threo,no usable figure,17,the lower quartile of the households of 20 vills in Threo hundred
+70691,Willoughby,LIN,Calcewath,no usable figure,9,the lower quartile of the households of 37 vills in Calcewath hundred
+71406,Winteringham,LIN,Manley,no usable figure,13,the lower quartile of the households of 32 vills in Manley hundred
+71626,Withcall,LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+73471,Yaddlethorpe,LIN,Manley,"waste, nobody counted",20,"dwellings left empty, from ploughlands (3.875) x the county median of 5.21 households per unit"
+73516,Yarburgh,LIN,Louthesk,no usable figure,14,hides or carucates (2.75) x the county median of 5.24 households per unit
+13211,[Little] Carlton,LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+60776,[Long] Sutton,LIN,Elloe,no usable figure,19,the lower quartile of the households of 10 vills in Elloe hundred
+63036,[Nor]thorpe,LIN,Corringham,no usable figure,8,the lower quartile of the households of 21 vills in Corringham hundred
+26316,`Gainsthorpe',LIN,Manley,no usable figure,2,value in 1086 (60) x the county median of 0.03 households per unit
+41451,`Mare',LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+53626,`Saltfleet',LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+61166,`Swine',LIN,Louthesk,no usable figure,13,the lower quartile of the households of 29 vills in Louthesk hundred
+63146,`[South]thorpe',LIN,Corringham,no usable figure,1,hides or carucates (0.25) x the county median of 5.24 households per unit
+17801,{Coteland},LIN,Flaxwell,no usable figure,29,hides or carucates (5.5) x the county median of 5.24 households per unit
+68446,{Wenflet},LIN,Yarborough,no usable figure,1,hides or carucates (0.25) x the county median of 5.24 households per unit
+2616,Ashford,MDX,Spelthorne,no usable figure,3,ploughlands (1) x the county median of 2.85 households per unit
+39911,London,MDX,Ossulstone,unsurveyed town,2222,"the low end of historians' estimates of its people about 1100 (10,000) at 4.5 people a household"
+52976,`Rug [Moor]',MDX,Ossulstone,no usable figure,6,plough teams (1) x the county median of 5.55 households per unit
+15951,Clenchwarton,NFK,Freebridge,no usable figure,2,value in 1086 (72) x the county median of 0.03 households per unit
+18986,Croxton,NFK,Gallow,no usable figure,11,hides or carucates (1) x the county median of 10.57 households per unit
+48331,Pattesley,NFK,Launditch,no usable figure,8,value in 1086 (240) x the county median of 0.03 households per unit
+54466,Sculthorpe,NFK,Gallow,no usable figure,1,hides or carucates (0.125) x the county median of 10.57 households per unit
+25666,Foxley,NTH,Towcester,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.89 households per unit"
+39811,Loddington,NTH,Rothwell,no usable figure,12,hides or carucates (2) x the county median of 5.84 households per unit
+62426,Thornby,NTH,Guilsborough,"waste, nobody counted",7,"dwellings left empty, from ploughlands (2.5) x the county median of 2.89 households per unit"
+111,{Aceshille},NTH,Cleyley,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (0.5) x the county median of 5.84 households per unit"
+11261,Budby,NTT,Bassetlaw,no usable figure,14,"hides or carucates (1.516) x the county median of 10.11 households per unit, capped at the median vill of its hundred (14)"
+13031,Carburton,NTT,Bassetlaw,no usable figure,14,"hides or carucates (1.516) x the county median of 10.11 households per unit, capped at the median vill of its hundred (14)"
+16351,Clown,NTT,Bassetlaw,no usable figure,14,"hides or carucates (1.516) x the county median of 10.11 households per unit, capped at the median vill of its hundred (14)"
+22191,Eastwood,NTT,Broxtow,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (60) x the county median of 0.03 households per unit"
+24471,Farnsfield,NTT,Thurgarton,no usable figure,3,plough teams (1) x the county median of 2.92 households per unit
+26681,Gibsmere,NTT,Thurgarton,no usable figure,9,ploughlands (1.75) x the county median of 4.97 households per unit
+34936,Inkersall,NTT,Bassetlaw,"waste, nobody counted",10,"dwellings left empty, from hides or carucates (1) x the county median of 10.11 households per unit"
+42226,Meering,NTT,Newark,no usable figure,8,hides or carucates (0.812) x the county median of 10.11 households per unit
+45336,Newthorpe,NTT,Broxtow,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.97 households per unit"
+45906,Normanton [-by-Clumber],NTT,Bassetlaw,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (0.188) x the county median of 10.11 households per unit"
+48191,Papplewick,NTT,Broxtow,"waste, nobody counted",7,"dwellings left empty, from value in 1066 (240) x the county median of 0.03 households per unit"
+51056,Ranby,NTT,Bassetlaw,"waste, nobody counted",14,"dwellings left empty, from ploughlands (5.75) x the county median of 4.97 households per unit, capped at the median vill of its hundred (14)"
+51071,Ranskill,NTT,Bassetlaw,"waste, nobody counted",5,"dwellings left empty, from ploughlands (1) x the county median of 4.97 households per unit"
+51336,Rayton,NTT,Bassetlaw,"waste, nobody counted",14,"dwellings left empty, from hides or carucates (2.516) x the county median of 10.11 households per unit, capped at the median vill of its hundred (14)"
+53621,Salterford,NTT,Thurgarton,"waste, nobody counted",8,"dwellings left empty, from hides or carucates (0.75) x the county median of 10.11 households per unit"
+54291,Scofton,NTT,Bassetlaw,"waste, nobody counted",14,"dwellings left empty, from hides or carucates (2.516) x the county median of 10.11 households per unit, capped at the median vill of its hundred (14)"
+47181,South Ordsall,NTT,Bassetlaw,"waste, nobody counted",4,"dwellings left empty, from ploughlands (0.75) x the county median of 4.97 households per unit"
+60826,Sutton [Passeys],NTT,Broxtow,"waste, nobody counted",10,"dwellings left empty, from ploughlands (6) x the county median of 4.97 households per unit, capped at the median vill of its hundred (10)"
+62301,Thoresby,NTT,Bassetlaw,no usable figure,14,"hides or carucates (1.516) x the county median of 10.11 households per unit, capped at the median vill of its hundred (14)"
+64481,Torworth,NTT,Bassetlaw,"waste, nobody counted",10,"dwellings left empty, from ploughlands (2) x the county median of 4.97 households per unit"
+44096,[North] Morton,NTT,Bassetlaw,"waste, nobody counted",10,"dwellings left empty, from ploughlands (2) x the county median of 4.97 households per unit"
+44521,[North] Muskham,NTT,Lythe,no usable figure,17,the lower quartile of the households of 21 vills in Lythe hundred
+12491,Cadwell,OXF,Benson,no usable figure,3,plough teams (1) x the county median of 2.78 households per unit
+19351,Cutteslowe,OXF,Wootton,no usable figure,6,plough teams (2) x the county median of 2.78 households per unit
+25526,Foscot,OXF,Shipton,no usable figure,3,ploughlands (1) x the county median of 2.51 households per unit
+32826,Holywell,OXF,Headington,no usable figure,3,ploughlands (1) x the county median of 2.51 households per unit
+34811,Ingham,OXF,Pyrton,no usable figure,3,plough teams (1) x the county median of 2.78 households per unit
+38446,Ledwell,OXF,Wootton,no usable figure,3,ploughlands (1) x the county median of 2.51 households per unit
+61236,Swyncombe,OXF,Benson,no usable figure,6,ploughlands (2.5) x the county median of 2.51 households per unit
+65621,Tusmore,OXF,Kirtlington,no usable figure,1,plough teams (0.5) x the county median of 2.78 households per unit
+29471,Hardwick,RUT,Witchley,no usable figure,18,the lower quartile of the households of 15 vills in Witchley hundred
+43841,Morcott,RUT,Witchley,no usable figure,27,"ploughlands (8) x the county median of 3.62 households per unit, capped at the median vill of its hundred (27)"
+49836,{Portland},RUT,Witchley,no usable figure,15,value in 1086 (576) x the county median of 0.03 households per unit
+136,Ackhill,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (6) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+241,Acton [Reynald],SHR,Baschurch,no usable figure,3,plough teams (1) x the county median of 2.80 households per unit
+3031,Aston,SHR,Merset,no usable figure,4,"plough teams (2) x the county median of 2.80 households per unit, capped at the median vill of its hundred (4)"
+4361,Barlow,SHR,Rinlow,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (0.5) x the county median of 4.00 households per unit"
+5226,Bausley,SHR,Rhiwset,no usable figure,3,plough teams (1) x the county median of 2.80 households per unit
+5626,Bedstone,SHR,Leintwardine,"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 1.50 households per unit"
+10616,Broom,SHR,Baschurch,no usable figure,4,hides or carucates (1) x the county median of 4.00 households per unit
+10631,Broome,SHR,Condover,no usable figure,3,ploughlands (2) x the county median of 1.50 households per unit
+11206,Bucknell,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (6) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+12306,Buttery,SHR,Wrockwardine,no usable figure,3,ploughlands (2) x the county median of 1.50 households per unit
+13351,Cascob,SHR,Leintwardine,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+14061,Charlcotte,SHR,Alnothstree,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+15511,Churchstoke,SHR,Wittery,no usable figure,3,plough teams (1) x the county median of 2.80 households per unit
+15911,Cleestanton,SHR,Culvestone,no usable figure,2,value in 1086 (72) x the county median of 0.03 households per unit
+16371,Clunbury,SHR,Rinlow,no usable figure,20,"value in 1066 (960) x the county median of 0.03 households per unit, capped at the median vill of its hundred (20)"
+17746,Cosford,SHR,Alnothstree,"waste, nobody counted",5,"dwellings left empty, from ploughlands (3) x the county median of 1.50 households per unit"
+22941,Ellerdine,SHR,Hodnet,no usable figure,4,hides or carucates (1) x the county median of 4.00 households per unit
+24721,Fenemere,SHR,Baschurch,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 1.50 households per unit"
+30306,Haughton,SHR,Wrockwardine,no usable figure,3,ploughlands (2) x the county median of 1.50 households per unit
+33091,Hopton,SHR,Hodnet,no usable figure,2,hides or carucates (0.5) x the county median of 4.00 households per unit
+33116,Hopton [Castle],SHR,Rinlow,"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 1.50 households per unit"
+33456,Horton,SHR,Wrockwardine,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 1.50 households per unit"
+35571,Kenley,SHR,Condover,"waste, nobody counted",7,"dwellings left empty, from value in 1066 (360) x the county median of 0.03 households per unit, capped at the median vill of its hundred (7)"
+36471,Kinnerley,SHR,Merset,no usable figure,3,ploughlands (2) x the county median of 1.50 households per unit
+37006,Knighton,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (12) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+37181,Kynaston,SHR,Merset,"waste, nobody counted",4,"dwellings left empty, from ploughlands (3) x the county median of 1.50 households per unit, capped at the median vill of its hundred (4)"
+37216,Lack,SHR,Wittery,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (16) x the county median of 0.03 households per unit"
+38336,Leaton,SHR,Baschurch,no usable figure,3,plough teams (1) x the county median of 2.80 households per unit
+40561,Lurkenhope,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (6) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+40951,Maesbrook,SHR,Merset,"waste, nobody counted",4,"dwellings left empty, from ploughlands (4) x the county median of 1.50 households per unit, capped at the median vill of its hundred (4)"
+42116,Mawley,SHR,Condertree,no usable figure,2,hides or carucates (0.5) x the county median of 4.00 households per unit
+42421,Melverley,SHR,Merset,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+42466,Menutton,SHR,Leintwardine,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+43451,Minton,SHR,Leintwardine,no usable figure,7,"hides or carucates (2) x the county median of 4.00 households per unit, capped at the median vill of its hundred (7)"
+44086,Morton,SHR,Merset,"waste, nobody counted",4,"dwellings left empty, from ploughlands (4) x the county median of 1.50 households per unit, capped at the median vill of its hundred (4)"
+44931,Netley,SHR,Condover,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+46151,Norton,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (12) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+46716,Obley,SHR,Rinlow,"waste, nobody counted",8,"dwellings left empty, from hides or carucates (2) x the county median of 4.00 households per unit"
+47101,Onneley,SHR,Hodnet,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (60) x the county median of 0.03 households per unit"
+47331,Osbaston,SHR,Merset,"waste, nobody counted",4,"dwellings left empty, from ploughlands (3) x the county median of 1.50 households per unit, capped at the median vill of its hundred (4)"
+50241,Preston [Montford],SHR,Baschurch,no usable figure,3,plough teams (1) x the county median of 2.80 households per unit
+50411,Puleston,SHR,Wrockwardine,"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 1.50 households per unit"
+50496,Purslow,SHR,Rinlow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+51166,Ratlinghope,SHR,Condover,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (2) x the county median of 4.00 households per unit, capped at the median vill of its hundred (7)"
+57186,Soulton,SHR,Hodnet,no usable figure,2,ploughlands (1) x the county median of 1.50 households per unit
+57531,Spoonley,SHR,Hodnet,"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 1.50 households per unit"
+57886,Stanage,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (15) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+59951,Strefford,SHR,Leintwardine,"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 1.50 households per unit"
+60626,Sutton,SHR,Shrewsbury,no usable figure,8,"plough teams (4) x the county median of 2.80 households per unit, capped at the median vill of its hundred (8)"
+69831,Whittingslow,SHR,Leintwardine,no usable figure,7,"hides or carucates (2) x the county median of 4.00 households per unit, capped at the median vill of its hundred (7)"
+71921,Wollaston,SHR,Rhiwset,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (12) x the county median of 0.03 households per unit"
+72471,Woolston,SHR,Merset,no usable figure,3,plough teams (1) x the county median of 2.80 households per unit
+20511,[Earls] Ditton,SHR,Overs,no usable figure,4,hides or carucates (1) x the county median of 4.00 households per unit
+73436,[Little] Wytheford,SHR,Wrockwardine,no usable figure,3,ploughlands (2) x the county median of 1.50 households per unit
+67741,[Llanfair] Waterdine,SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (12) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+24686,[West] Felton,SHR,Merset,"waste, nobody counted",2,"dwellings left empty, from ploughlands (1) x the county median of 1.50 households per unit"
+30426,`Hawksley',SHR,Condover,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (6) x the county median of 0.03 households per unit"
+23706,`[Little] Eton',SHR,Condover,no usable figure,2,value in 1086 (48) x the county median of 0.03 households per unit
+65471,{Tumbelawe},SHR,Leintwardine,"waste, nobody counted",7,"dwellings left empty, from ploughlands (5) x the county median of 1.50 households per unit, capped at the median vill of its hundred (7)"
+3266,Athelney,SOM,North Petherton,no usable figure,5,hides or carucates (1.25) x the county median of 4.19 households per unit
+15106,Chilton [Cantelo],SOM,Stone,no usable figure,3,ploughlands (1) x the county median of 2.83 households per unit
+21061,Draycott,SOM,Winterstoke,no usable figure,1,ploughlands (0.5) x the county median of 2.83 households per unit
+21646,Dunwear,SOM,North Petherton,no usable figure,1,value in 1086 (12) x the county median of 0.02 households per unit
+23321,Embelle,SOM,Williton and Freemanners,no usable figure,3,plough teams (1) x the county median of 3.46 households per unit
+36041,Kilmersdon,SOM,Kilmersdon,no usable figure,2,value in 1086 (120) x the county median of 0.02 households per unit
+37926,Lattiford,SOM,Catsash,no usable figure,6,ploughlands (2) x the county median of 2.83 households per unit
+49391,Pitney,SOM,Somerton,no usable figure,3,plough teams (1) x the county median of 3.46 households per unit
+49426,Pixton,SOM,Williton and Freemanners,no usable figure,6,ploughlands (2) x the county median of 2.83 households per unit
+55901,Shovel,SOM,North Petherton,no usable figure,1,ploughlands (0.5) x the county median of 2.83 households per unit
+53461,St Michael Church,SOM,North Petherton,no usable figure,3,ploughlands (1) x the county median of 2.83 households per unit
+59461,Stone,SOM,Carhampton,"waste, nobody counted",6,"dwellings left empty, from ploughlands (2) x the county median of 2.83 households per unit"
+61271,Sydenham,SOM,North Petherton,no usable figure,3,ploughlands (1) x the county median of 2.83 households per unit
+71716,Withypool,SOM,Williton and Freemanners,no usable figure,11,ploughlands (4) x the county median of 2.83 households per unit
+54226,{Scepeworde},SOM,-,no usable figure,1,ploughlands (0.5) x the county median of 2.83 households per unit
+1406,Alton,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+5621,Bednall,STS,Cuttlestone,"waste, nobody counted",6,"dwellings left empty, from the lower quartile of the households of 44 vills in Cuttlestone hundred"
+6386,Bescot,STS,Offlow,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (1) x the county median of 6.00 households per unit"
+6651,Bickford,STS,Cuttlestone,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+10401,Brocton,STS,Cuttlestone,"waste, nobody counted",6,"dwellings left empty, from the lower quartile of the households of 44 vills in Cuttlestone hundred"
+10736,Broughton,STS,Pirehill,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (0.5) x the county median of 6.00 households per unit"
+11196,Bucknall,STS,Pirehill,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit"
+13576,Cauldon,STS,Totmonslow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+14276,Chasepool,STS,Seisdon,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+17411,Consall,STS,Totmonslow,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (1) x the county median of 6.00 households per unit"
+17901,Coton,STS,Pirehill,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+20031,Denstone,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+23406,Endon,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from the lower quartile of the households of 24 vills in Totmonslow hundred"
+23451,Enson,STS,Pirehill,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+24316,Farley,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from the lower quartile of the households of 24 vills in Totmonslow hundred"
+24591,Featherstone,STS,Cuttlestone,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (1) x the county median of 6.00 households per unit"
+24751,Fenton,STS,Pirehill,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit"
+25491,Forsbrook,STS,Totmonslow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+26146,Fulford,STS,Pirehill,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+27916,Grindon,STS,Totmonslow,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (1) x the county median of 6.00 households per unit"
+29121,Hanford,STS,Pirehill,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+30831,Heighley,STS,Pirehill,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+31736,Hilcote,STS,Pirehill,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+40336,Loynton,STS,Cuttlestone,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+41721,Marston,STS,Cuttlestone,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+43986,Morfe,STS,Seisdon,"waste, nobody counted",11,"dwellings left empty, from ploughlands (6) x the county median of 2.50 households per unit, capped at the median vill of its hundred (11)"
+45576,Newton,STS,Totmonslow,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (2) x the county median of 6.00 households per unit, capped at the median vill of its hundred (8.5)"
+45846,Normacot,STS,Pirehill,no usable figure,3,plough teams (1) x the county median of 3.17 households per unit
+46661,Oakley,STS,Pirehill,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit"
+46981,Okeover,STS,Totmonslow,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+48561,Pelsall,STS,Offlow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+52781,Rownall,STS,Totmonslow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+52961,Rudyard,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from the lower quartile of the households of 24 vills in Totmonslow hundred"
+53161,Rushton,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+54681,Seisdon,STS,Seisdon,no usable figure,3,plough teams (1) x the county median of 3.17 households per unit
+55071,Sheen,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from the lower quartile of the households of 24 vills in Totmonslow hundred"
+55246,Shelton [-under-Harley],STS,Pirehill,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+58131,Stanshope,STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from the lower quartile of the households of 24 vills in Totmonslow hundred"
+58181,Stanton,STS,Totmonslow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+72671,Wootton [-under-Weaver],STS,Totmonslow,"waste, nobody counted",5,"dwellings left empty, from the lower quartile of the households of 24 vills in Totmonslow hundred"
+47096,[Little] Onn,STS,Cuttlestone,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+43146,[Mill]meece,STS,Pirehill,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+16936,{Colt},STS,Pirehill,no usable figure,3,hides or carucates (0.5) x the county median of 6.00 households per unit
+23641,{Estendone},STS,Cuttlestone,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (1) x the county median of 6.00 households per unit"
+30111,{Haswic},STS,Seisdon,"waste, nobody counted",11,"dwellings left empty, from ploughlands (8) x the county median of 2.50 households per unit, capped at the median vill of its hundred (11)"
+32211,{Hocintune},STS,Offlow,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (1) x the county median of 6.00 households per unit"
+40471,{Lufamesles},STS,Totmonslow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+6566,Beyton,SUF,Thedwestry,no usable figure,2,plough teams (0.5) x the county median of 4.21 households per unit
+14316,Chattisham,SUF,Samford,no usable figure,7,the lower quartile of the households of 26 vills in Samford hundred
+25646,Foxhall,SUF,Carlford,no usable figure,1,value in 1086 (24) x the county median of 0.03 households per unit
+36291,Kingsland,SUF,Carlford,"waste, nobody counted",8,"dwellings left empty, from hides or carucates (1) x the county median of 8.43 households per unit"
+62091,Theberton,SUF,Blything,no usable figure,3,value in 1086 (120) x the county median of 0.03 households per unit
+65511,Tunstall,SUF,Parham,no usable figure,1,value in 1086 (8) x the county median of 0.03 households per unit
+11556,Burgh,SUR,Copthorne,no usable figure,10,hides or carucates (5) x the county median of 2.08 households per unit
+13891,Chaldon,SUR,Wallington,no usable figure,3,plough teams (1) x the county median of 3.14 households per unit
+57326,Southwark,SUR,Brixton,no usable figure,17,"value in 1086 (3840) x the county median of 0.01 households per unit, capped at the median vill of its hundred (16.5)"
+60691,Sutton [-by-Shere],SUR,Wotton,no usable figure,10,hides or carucates (5) x the county median of 2.08 households per unit
+17171,Compton,SUS,Totnore,no usable figure,10,"hides or carucates (4) x the county median of 3.20 households per unit, capped at the median vill of its hundred (10)"
+24036,Eyelid,SUS,Netherfield,no usable figure,2,value in 1086 (144) x the county median of 0.02 households per unit
+30581,Hazelden,SUS,East Grinstead,no usable figure,3,"ploughlands (2) x the county median of 3.20 households per unit, capped at the median vill of its hundred (3)"
+34236,Hurst,SUS,Staple,no usable figure,3,plough teams (1) x the county median of 3.20 households per unit
+37976,Laughton,SUS,Pevensey,no usable figure,3,the lower quartile of the households of 11 vills in Pevensey hundred
+44231,Moulstone,SUS,Falmer,no usable figure,3,plough teams (1) x the county median of 3.20 households per unit
+46881,Offington,SUS,Steyning,no usable figure,3,plough teams (1) x the county median of 3.20 households per unit
+57906,Standen,SUS,East Grinstead,no usable figure,1,hides or carucates (0.375) x the county median of 3.20 households per unit
+72371,Woolfly,SUS,Wyndham,no usable figure,1,value in 1086 (60) x the county median of 0.02 households per unit
+711,`Alchin',SUS,Rotherfield,no usable figure,1,hides or carucates (0.25) x the county median of 3.20 households per unit
+6956,Bilton,WAR,Marton,no usable figure,1,ploughlands (0.5) x the county median of 2.75 households per unit
+23041,Elmdon,WAR,Coleshill,no usable figure,2,plough teams (0.5) x the county median of 3.11 households per unit
+36451,Kington,WAR,Ferncombe,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.75 households per unit"
+46996,Oldberrow,WAR,Fishborough,no usable figure,1,value in 1086 (60) x the county median of 0.02 households per unit
+52711,Roundshill,WAR,Stoneleigh,"waste, nobody counted",4,"dwellings left empty, from hides or carucates (1) x the county median of 4.27 households per unit"
+68081,Weethley,WAR,Ferncombe,no usable figure,11,ploughlands (4) x the county median of 2.75 households per unit
+70261,Wiggins Hill,WAR,Coleshill,no usable figure,3,ploughlands (1) x the county median of 2.75 households per unit
+3426,Avebury,WIL,Selkley,no usable figure,5,value in 1086 (480) x the county median of 0.01 households per unit
+12286,Buttermere,WIL,Kinwardstone,no usable figure,6,ploughlands (2) x the county median of 3.00 households per unit
+18651,Cricklade,WIL,Cricklade,no usable figure,17,"value in 1086 (2160) x the county median of 0.01 households per unit, capped at the median vill of its hundred (16.5)"
+28001,Grovely [Wood],WIL,Cadworth,no usable figure,4,value in 1086 (360) x the county median of 0.01 households per unit
+29366,Harding,WIL,Kinwardstone,no usable figure,4,plough teams (1) x the county median of 3.71 households per unit
+34201,Hurdcott,WIL,Alderbury,no usable figure,2,ploughlands (0.5) x the county median of 3.00 households per unit
+41586,Marlborough,WIL,Selkley,no usable figure,4,value in 1086 (360) x the county median of 0.01 households per unit
+49676,Pomeroy,WIL,Bradford,no usable figure,4,plough teams (1) x the county median of 3.71 households per unit
+57916,Standen,WIL,Kinwardstone,no usable figure,4,plough teams (1) x the county median of 3.71 households per unit
+57941,Standlynch,WIL,Downtown,no usable figure,5,ploughlands (1.5) x the county median of 3.00 households per unit
+65901,Uffcott,WIL,Selkley,no usable figure,8,ploughlands (2.5) x the county median of 3.00 households per unit
+66141,Upavon,WIL,Swanborough,no usable figure,3,ploughlands (1) x the county median of 3.00 households per unit
+66671,Walcot,WIL,Blackgrove,no usable figure,3,value in 1086 (276) x the county median of 0.01 households per unit
+70851,Wilton,WIL,Cadworth,no usable figure,15,"value in 1086 (14610) x the county median of 0.01 households per unit, capped at the median vill of its hundred (15)"
+47731,[East] Overton,WIL,Selkley,no usable figure,12,"plough teams (7) x the county median of 3.71 households per unit, capped at the median vill of its hundred (12)"
+4336,Barley,WOR,Oswaldslow,no usable figure,4,value in 1066 (180) x the county median of 0.02 households per unit
+5881,Bellington,WOR,Clent,"waste, nobody counted",15,"dwellings left empty, from ploughlands (5) x the county median of 2.91 households per unit"
+15481,Churchill,WOR,Clent,no usable figure,2,plough teams (1) x the county median of 2.23 households per unit
+21936,Eastbury,WOR,Oswaldslow,no usable figure,2,plough teams (1) x the county median of 2.23 households per unit
+30951,Helpridge,WOR,Clent,no usable figure,18,"value in 1086 (9360) x the county median of 0.02 households per unit, capped at the median vill of its hundred (18)"
+31856,Hillhampton,WOR,Doddingtree,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (12) x the county median of 0.02 households per unit"
+32506,Hollin,WOR,Doddingtree,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+58826,Stildon,WOR,Doddingtree,"waste, nobody counted",6,"dwellings left empty, from ploughlands (2) x the county median of 2.91 households per unit"
+42956,`Middlewich',WOR,Clent,no usable figure,18,"value in 1086 (9360) x the county median of 0.02 households per unit, capped at the median vill of its hundred (18)"
+66401,`Upwich',WOR,Clent,no usable figure,18,"value in 1086 (9360) x the county median of 0.02 households per unit, capped at the median vill of its hundred (18)"
+141,Acklam,YKS,Acklam,"waste, nobody counted",10,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit"
+176,Acomb,YKS,Ainsty,no usable figure,6,"plough teams (7.5) x the county median of 2.60 households per unit, capped at the median vill of its hundred (5.5)"
+301,Addingham,YKS,`Burghshire' [Claro],no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+341,Addlethorpe,YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+346,Adel,YKS,Skyrack,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+486,Agglethorpe,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+536,Ainderby [Quernhow],YKS,Land of Count Alan,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+541,Ainderby [Steeple],YKS,Land of Count Alan,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+561,Airton,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+566,Airy [Holme],YKS,Langbargh,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+591,Aislaby,YKS,{Dic} [Pickering Lythe],no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+596,Aislaby,YKS,Langbargh,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (128) x the county median of 0.02 households per unit"
+886,Aldingham,YKS,Amounderness,no usable figure,7,"hides or carucates (8.333) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+936,Aldwark,YKS,{Bolesford} [Bulmer],"waste, nobody counted",6,"dwellings left empty, from hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (6)"
+1096,Allerthorpe [Hall],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+1126,Allerton [Mauleverer],YKS,`Burghshire' [Claro],no usable figure,1,plough teams (0.5) x the county median of 2.60 households per unit
+1226,Almondbury,YKS,Agbrigg,"waste, nobody counted",10,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9.5)"
+1251,Alne,YKS,{Bolesford} [Bulmer],"waste, nobody counted",6,"dwellings left empty, from value in 1066 (600) x the county median of 0.02 households per unit, capped at the median vill of its hundred (6)"
+1586,Alwoodley,YKS,Skyrack,no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+2001,Appleton [Wiske],YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+1981,Appleton [le Moors],YKS,{Maneshou} [Ryedale],no usable figure,3,the lower quartile of the households of 24 vills in {Maneshou} [Ryedale] hundred
+1986,Appleton [le Moors],YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+1991,Appleton [le Street],YKS,{Maneshou} [Ryedale],no usable figure,3,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+2011,Appletreewick,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+2066,Argam,YKS,{Turbar},no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+2171,Arncliffe,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+2176,Arncliffe [Hall],YKS,Allerton,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+2201,Arnford,YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+2791,Ashton [Hall],YKS,Amounderness,no usable figure,7,"hides or carucates (10) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+2911,Askrigg,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+3301,Attercliffe,YKS,Strafforth,no usable figure,3,hides or carucates (2.5) x the county median of 1.14 households per unit
+3326,Auburn,YKS,Hunthow,no usable figure,1,hides or carucates (0.5) x the county median of 1.14 households per unit
+3416,Austwick,YKS,Amounderness,no usable figure,7,"hides or carucates (43) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+3601,Aysgarth,YKS,Land of Count Alan,no usable figure,2,value in 1066 (96) x the county median of 0.02 households per unit
+3966,Baldersby,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+4121,Barden,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+4146,Bardsey,YKS,Skyrack,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+4396,Barmston,YKS,Holderness,"waste, nobody counted",9,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9)"
+4406,Barnaby,YKS,Langbargh,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (64) x the county median of 0.02 households per unit"
+4531,Barnoldswick,YKS,Craven,no usable figure,7,"hides or carucates (12) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+4711,Barthorpe [Grange],YKS,Acklam,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+5161,Battersby,YKS,Langbargh,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+5326,Beadlam,YKS,{Maneshou} [Ryedale],"waste, nobody counted",3,"dwellings left empty, from hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (3)"
+5366,Beamsley,YKS,`Burghshire' [Claro],"waste, nobody counted",2,"dwellings left empty, from ploughlands (0.75) x the county median of 2.50 households per unit"
+5546,Beckwith [House],YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+5761,Beetham,YKS,Amounderness,no usable figure,7,"hides or carucates (25) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+5926,Belthorpe,YKS,Pocklington,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+5961,Bempton,YKS,Hunthow,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+6126,Bentley,YKS,Welton,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+6531,Bewerley,YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+6536,Bewholme,YKS,Holderness,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+6901,Billingley,YKS,Strafforth,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+6966,Bilton,YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+7006,Bingley,YKS,Skyrack,"waste, nobody counted",6,"dwellings left empty, from ploughlands (6) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+7026,Binnington,YKS,Burton,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+7161,Birkby [Hill],YKS,Skyrack,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+7196,Birstwith,YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+8031,Bolton,YKS,Morley,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+8041,Bolton [by Bowland],YKS,Craven,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+8186,Bordley,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+8221,Borrowby,YKS,Langbargh,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (6)"
+8611,Bowling,YKS,Morley,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+8626,Bowthorpe,YKS,Howden,no usable figure,7,the lower quartile of the households of 7 vills in Howden hundred
+8791,Bracewell,YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+8796,Bracken,YKS,{Sneculfcros},no usable figure,4,the lower quartile of the households of 16 vills in {Sneculfcros} hundred
+8806,Brackenholme,YKS,Howden,no usable figure,7,the lower quartile of the households of 7 vills in Howden hundred
+8911,Bradford,YKS,Morley,"waste, nobody counted",9,"dwellings left empty, from value in 1066 (960) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9)"
+8991,Bradley,YKS,Agbrigg,"waste, nobody counted",10,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9.5)"
+9186,Bramhope,YKS,Skyrack,"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+9206,Bramley,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+9216,Bramley [Grange],YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+9276,Brampton [en le Morthen],YKS,Strafforth,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+9446,Branton [Green],YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (4.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+9531,Brawby,YKS,{Maneshou} [Ryedale],"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+9621,Breckenbrough,YKS,{Gerlestre} [Birdforth],"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit, capped at the median vill of its hundred (6.5)"
+9916,Brigham,YKS,{Turbar},"waste, nobody counted",4,"dwellings left empty, from hides or carucates (3.5) x the county median of 1.14 households per unit"
+10021,Brimham [Hall],YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+10081,Brinsworth,YKS,Strafforth,"waste, nobody counted",11,"dwellings left empty, from value in 1066 (660) x the county median of 0.02 households per unit"
+10681,Brough [Hill],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+10796,Broughton [House],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+11481,Burden [Head],YKS,Skyrack,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+11631,Burland [House],YKS,Howden,no usable figure,7,the lower quartile of the households of 7 vills in Howden hundred
+11741,Burneston,YKS,Land of Count Alan,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+11821,Burnsall,YKS,Craven,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (5.75) x the county median of 1.14 households per unit"
+11966,Burton [Agnes],YKS,Burton,"waste, nobody counted",7,"dwellings left empty, from value in 1066 (5760) x the county median of 0.02 households per unit, capped at the median vill of its hundred (7.1665)"
+11996,Burton [Constable],YKS,Holderness,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+12181,Burythorpe,YKS,Acklam,"waste, nobody counted",10,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit"
+12586,Caldbergh,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (84) x the county median of 0.02 households per unit"
+12681,Caldwell,YKS,Land of Count Alan,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+12741,Calton,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+12766,Calverley,YKS,Morley,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+13076,Carlesmoor,YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+13086,Carleton,YKS,Craven,no usable figure,7,"hides or carucates (10) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+13141,Carlton,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (192) x the county median of 0.02 households per unit"
+13266,Carperby,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+13296,Carthorpe,YKS,Land of Count Alan,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+13301,Cartmel,YKS,Amounderness,no usable figure,7,"hides or carucates (8.333) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+13416,Castley,YKS,`Burghshire' [Claro],no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+13496,Cattal,YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+13671,Cawthorn,YKS,{Dic} [Pickering Lythe],no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+13721,Cayton,YKS,{Dic} [Pickering Lythe],no usable figure,6,ploughlands (2.5) x the county median of 2.50 households per unit
+15866,Clayton [West],YKS,Staincross,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+15891,Cleaving [Grange],YKS,Weighton,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+16046,Cliffe,YKS,Howden,no usable figure,1,plough teams (0.5) x the county median of 2.60 households per unit
+16146,Clifton,YKS,Morley,"waste, nobody counted",9,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9)"
+16331,Clotherholme,YKS,`Burghshire' [Claro],no usable figure,6,"value in 1086 (240) x the county median of 0.03 households per unit, capped at the median vill of its hundred (6)"
+16501,Cockerham,YKS,Amounderness,no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+17181,Compton,YKS,Skyrack,no usable figure,3,the lower quartile of the households of 14 vills in Skyrack hundred
+17321,Coneysthorpe,YKS,{Bolesford} [Bulmer],no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+17381,Conistone,YKS,Craven,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+17406,Cononley,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+17446,Cookridge,YKS,Skyrack,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+17856,Cotherstone,YKS,Land of Count Alan,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+17916,Cottam,YKS,`Thorshowe',"waste, nobody counted",7,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (7.1665)"
+18111,Coverham,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+18191,Cowling,YKS,Craven,no usable figure,3,hides or carucates (2.25) x the county median of 1.14 households per unit
+18196,Cowling,YKS,Land of Count Alan,"waste, nobody counted",5,"dwellings left empty, from hides or carucates (4) x the county median of 1.14 households per unit"
+18711,Croft,YKS,Land of Count Alan,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+18781,Crooksby [Barn],YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+18811,Cropton,YKS,{Dic} [Pickering Lythe],no usable figure,8,ploughlands (3) x the county median of 2.50 households per unit
+19391,Dacre,YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+19451,Dale [Town],YKS,Allerton,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+19511,Dalton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+19886,Deighton,YKS,Allerton,"waste, nobody counted",7,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+20326,Dimlington,YKS,Holderness,no usable figure,9,"value in 1086 (1920) x the county median of 0.03 households per unit, capped at the median vill of its hundred (9)"
+20436,Dishforth,YKS,Halikeld,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+20756,Dore,YKS,Scarsdale,no usable figure,4,ploughlands (1.5) x the county median of 2.50 households per unit
+20956,Downholme,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+21211,Drighlington,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+21286,Drypool,YKS,Holderness,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (180) x the county median of 0.02 households per unit"
+21526,Dunsley,YKS,Langbargh,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+21786,Earby,YKS,Craven,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+21856,Earswick,YKS,{Bolesford} [Bulmer],"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+21866,Easby,YKS,Langbargh,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+22376,Eccleshill,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+22396,Eccup,YKS,Skyrack,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+22461,Eddlethorpe,YKS,Acklam,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+22771,Egton,YKS,Langbargh,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+22881,Elland,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+22936,Ellerby,YKS,Langbargh,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (6)"
+22956,Ellerton [Abbey],YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (156) x the county median of 0.02 households per unit"
+23111,Elmswell,YKS,Driffield,"waste, nobody counted",7,"dwellings left empty, from ploughlands (5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+23161,Elslack,YKS,Craven,no usable figure,7,"hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+23286,Elwicks,YKS,`Burghshire' [Claro],no usable figure,3,the lower quartile of the households of 39 vills in `Burghshire' [Claro] hundred
+23586,Eshton,YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+23591,Eskdale[side],YKS,Langbargh,no usable figure,5,hides or carucates (4.312) x the county median of 1.14 households per unit
+23651,Eston,YKS,Langbargh,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (6)"
+23841,Everthorpe,YKS,Cave,no usable figure,2,the lower quartile of the households of 10 vills in Cave hundred
+23951,Exelby,YKS,Land of Count Alan,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+24141,Fadmoor,YKS,{Maneshou} [Ryedale],"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+24446,Farnhill,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+24456,Farnley,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+24466,Farnley [Tyas],YKS,Agbrigg,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+24491,Farsley,YKS,Morley,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+24981,Firby,YKS,Acklam,no usable figure,4,hides or carucates (3.083) x the county median of 1.14 households per unit
+25071,Fixby,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+25236,Flockton,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+25321,Folkton,YKS,{Turbar},no usable figure,10,ploughlands (4) x the county median of 2.50 households per unit
+25431,Fordon,YKS,{Turbar},no usable figure,8,ploughlands (3) x the county median of 2.50 households per unit
+25486,Fors [Abbey],YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (84) x the county median of 0.02 households per unit"
+25691,Foxton,YKS,Allerton,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+25701,Fraisthorpe,YKS,Hunthow,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+25841,Fremington,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+26211,Fulstone,YKS,Agbrigg,no usable figure,7,the lower quartile of the households of 12 vills in Agbrigg hundred
+26436,Garriston,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (64) x the county median of 0.02 households per unit"
+26791,Girsby,YKS,Allerton,"waste, nobody counted",7,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+26991,Glusburn,YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+27096,Golcar,YKS,Agbrigg,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+27131,Goldsborough,YKS,Langbargh,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+27151,Gomersal,YKS,Morley,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+27396,Grafton,YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (5.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+27501,Grassington,YKS,Craven,no usable figure,7,"hides or carucates (15.25) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+27696,Greetland,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+27786,Griff [Farm],YKS,{Maneshou} [Ryedale],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+27881,Grimston [Grange],YKS,Barkston Ash,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+27911,Grindleton,YKS,Craven,no usable figure,7,"hides or carucates (38) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+27936,Grinton,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+28401,Hagthorpe,YKS,Howden,no usable figure,7,the lower quartile of the households of 7 vills in Howden hundred
+28691,Halton,YKS,Amounderness,no usable figure,7,"hides or carucates (75) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+28696,Halton,YKS,Skyrack,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+28911,Hamphall [Stubbs],YKS,Osgoldcross,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+29141,Hangton Hill,YKS,Langbargh,no usable figure,5,hides or carucates (4.312) x the county median of 1.14 households per unit
+29541,Harewood,YKS,Skyrack,no usable figure,6,"ploughlands (5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+29901,Hartlington,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+30431,Hawkswick,YKS,Craven,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+30471,Hawnby,YKS,Allerton,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+30476,Hawold,YKS,Warter,no usable figure,3,"ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+30736,Heathfield,YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+30771,Hebden,YKS,Craven,"waste, nobody counted",5,"dwellings left empty, from hides or carucates (4.25) x the county median of 1.14 households per unit"
+31146,Henderskelfe,YKS,{Bolesford} [Bulmer],no usable figure,5,plough teams (2) x the county median of 2.60 households per unit
+31301,Hepworth,YKS,Agbrigg,no usable figure,7,the lower quartile of the households of 12 vills in Agbrigg hundred
+31486,Hetton,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+31541,Heworth,YKS,York,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+31741,Hildenley [Hall],YKS,{Bolesford} [Bulmer],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+31851,Hillgrips,YKS,{Dic} [Pickering Lythe],"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+31886,Hilston,YKS,Holderness,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (330) x the county median of 0.02 households per unit"
+32126,Hipperholme,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+32426,Holdworth,YKS,Strafforth,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+32461,Holker,YKS,Craven,no usable figure,7,"hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+32651,Holme [on the Wolds],YKS,{Sneculfcros},no usable figure,8,"hides or carucates (18) x the county median of 1.14 households per unit, capped at the median vill of its hundred (8)"
+32726,Holtby,YKS,{Bolesford} [Bulmer],no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+32731,Holtby [Hall],YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+32931,Honley,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+33071,Hopperton,YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (3.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+33226,Hornby,YKS,Allerton,no usable figure,3,hides or carucates (2.667) x the county median of 1.14 households per unit
+33231,Hornby,YKS,Land of Count Alan,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+33356,Horsforth,YKS,Skyrack,no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+33731,Howe,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+33741,Howgrave,YKS,Land of Count Alan,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (5) x the county median of 1.14 households per unit"
+33826,Huddersfield,YKS,Agbrigg,"waste, nobody counted",10,"dwellings left empty, from value in 1066 (1200) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9.5)"
+33841,Hudswell,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (192) x the county median of 0.02 households per unit"
+33851,Huggate,YKS,Warter,"waste, nobody counted",3,"dwellings left empty, from ploughlands (12) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+33991,Hunderthwaite,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+34016,Hundulfthorpe [Farm],YKS,{Gerlestre} [Birdforth],"waste, nobody counted",4,"dwellings left empty, from hides or carucates (3.667) x the county median of 1.14 households per unit"
+34066,Hunshelf [Hall],YKS,Staincross,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+34296,Hutton [Bonville],YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+34341,Hutton [Mulgrave],YKS,Langbargh,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+34831,Ingleby [Arncliffe],YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+34921,Ingthorpe [Grange],YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+35081,Irton,YKS,{Dic} [Pickering Lythe],"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+35296,Kearby [Town End],YKS,`Burghshire' [Claro],no usable figure,1,value in 1086 (16) x the county median of 0.03 households per unit
+35331,Keighley,YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+35826,Kettlewell,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+35846,Kex Moor,YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+35981,Kildwick,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+36006,Killerby [Hall],YKS,{Dic} [Pickering Lythe],"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+36076,Kilnsey,YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+36111,Kilton,YKS,Langbargh,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+36541,Kipling Cotes,YKS,Weighton,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+36581,Kirby [Grindalythe],YKS,`Thorshowe',"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+36586,Kirby [Hall],YKS,`Burghshire' [Claro],no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+36591,Kirby [Hill],YKS,Halikeld,"waste, nobody counted",6,"dwellings left empty, from ploughlands (6) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+36631,Kirby [Underdale],YKS,Acklam,no usable figure,8,ploughlands (3) x the county median of 2.50 households per unit
+36641,Kirby [Wiske],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+36751,Kirkby [Wharfe],YKS,Barkston Ash,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+36911,Knapton,YKS,`Thorshowe',"waste, nobody counted",7,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+36966,Kneeton [Hall],YKS,Land of Count Alan,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+37471,Langcliffe,YKS,Craven,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+37706,Langthorpe [Hall],YKS,Holderness,no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+37871,Lartington,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+38151,Laycock,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+38851,Leppington,YKS,Acklam,no usable figure,4,the lower quartile of the households of 9 vills in Acklam hundred
+38856,Lepton,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+39081,Leyburn,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+39291,Lindley,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+39386,Linton,YKS,{Scard},no usable figure,7,the lower quartile of the households of 8 vills in {Scard} hundred
+39431,Lissett,YKS,Holderness,"waste, nobody counted",9,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9)"
+39796,Lockton,YKS,{Dic} [Pickering Lythe],no usable figure,10,ploughlands (4) x the county median of 2.50 households per unit
+39836,Loft Marishes,YKS,{Dic} [Pickering Lythe],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+39841,Lofthouse,YKS,Skyrack,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+39856,Loftus [Hill],YKS,`Burghshire' [Claro],no usable figure,6,"ploughlands (3.25) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+40096,Lonton,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+41636,Marrick,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+42256,Melbourne,YKS,Cave,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit"
+42331,Melling,YKS,Amounderness,no usable figure,7,"hides or carucates (9.5) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+42356,Melmerby,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+42361,Melmerby,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+42371,Meltham,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+42731,Mickleby,YKS,Langbargh,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+42756,Mickleton,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (192) x the county median of 0.02 households per unit"
+42781,Middleham,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+43156,Millom,YKS,Amounderness,no usable figure,7,"hides or carucates (95) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+43801,Moorsholm,YKS,Langbargh,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (5.1) x the county median of 1.14 households per unit"
+44001,Morley,YKS,Morley,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+44111,Morton [Grange],YKS,Allerton,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+44116,Morton [Grange],YKS,Langbargh,no usable figure,6,"ploughlands (5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+44271,Mount Grace,YKS,Allerton,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+44491,Murton,YKS,Allerton,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+44616,Naburn,YKS,Warter,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+44656,Nappa,YKS,Craven,"waste, nobody counted",4,"dwellings left empty, from hides or carucates (3.25) x the county median of 1.14 households per unit"
+44841,Nesfield,YKS,`Burghshire' [Claro],no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+44876,Neswick [Hall],YKS,Driffield,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (9) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+45141,Newham [Hall],YKS,Langbargh,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+45321,Newsholme,YKS,Craven,no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+45326,Newsome [Farm],YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+45451,Newton,YKS,Langbargh,no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+45486,Newton,YKS,`Thorshowe',"waste, nobody counted",7,"dwellings left empty, from ploughlands (9) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+45856,Normanby,YKS,Langbargh,"waste, nobody counted",5,"dwellings left empty, from value in 1066 (304) x the county median of 0.02 households per unit"
+45861,Normanby,YKS,Langbargh,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+46781,Octon,YKS,Burton,no usable figure,2,hides or carucates (1.5) x the county median of 1.14 households per unit
+47201,Orgreave,YKS,Strafforth,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+47436,Osmotherley,YKS,Allerton,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+47461,Oswaldkirk,YKS,{Maneshou} [Ryedale],"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+47641,Ouston [Farm],YKS,Ainsty,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (64) x the county median of 0.02 households per unit"
+47946,Oxspring,YKS,Staincross,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+47961,Oxton,YKS,Ainsty,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+48711,Penistone,YKS,Staincross,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+49566,Pockley,YKS,{Maneshou} [Ryedale],"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+50191,Preston,YKS,Amounderness,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (171) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+50286,Preston [under Scar],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+50396,Pudsey,YKS,Morley,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+50651,Quarmby,YKS,Agbrigg,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+51121,Raskelf,YKS,{Bolesford} [Bulmer],no usable figure,6,"ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+51126,Rastrick,YKS,Morley,no usable figure,1,hides or carucates (0.5) x the county median of 1.14 households per unit
+51271,Rawcliffe,YKS,{Bolesford} [Bulmer],"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+51291,Rawdon,YKS,Skyrack,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+51471,Redmire,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (216) x the county median of 0.02 households per unit"
+51516,Reeth,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (168) x the county median of 0.02 households per unit"
+51691,Riccal [House],YKS,{Maneshou} [Ryedale],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+51751,Riddlesden,YKS,Skyrack,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+51831,Rigton,YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+51856,Rimington,YKS,Craven,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (11) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+51866,Rimswell,YKS,Holderness,no usable figure,5,plough teams (2) x the county median of 2.60 households per unit
+51971,Ripley,YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+52046,Risby,YKS,Welton,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+52381,Rokeby [Hall],YKS,Land of Count Alan,"waste, nobody counted",9,"dwellings left empty, from value in 1066 (600) x the county median of 0.02 households per unit, capped at the median vill of its hundred (9)"
+52431,Romaldkirk,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+52481,Rookwith,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+52586,Rossett [Green],YKS,`Burghshire' [Claro],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+52661,Rotsea,YKS,Driffield,no usable figure,4,the lower quartile of the households of 638 vills in Yorkshire
+52756,Rowden,YKS,`Burghshire' [Claro],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+53201,Ruswick,YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+53291,Rylstone,YKS,Craven,no usable figure,6,hides or carucates (5.5) x the county median of 1.14 households per unit
+53751,Sandburn [House],YKS,{Bolesford} [Bulmer],"waste, nobody counted",2,"dwellings left empty, from hides or carucates (1.5) x the county median of 1.14 households per unit"
+54121,Scagglethorpe,YKS,{Scard},no usable figure,1,value in 1086 (24) x the county median of 0.03 households per unit
+54156,Scampston,YKS,{Scard},"waste, nobody counted",8,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit"
+54216,Scawton,YKS,{Maneshou} [Ryedale],"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+54366,Scotton,YKS,Land of Count Alan,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (360) x the county median of 0.02 households per unit"
+54501,Seacroft,YKS,Skyrack,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (960) x the county median of 0.02 households per unit, capped at the median vill of its hundred (5.5)"
+54871,Shadwell,YKS,Skyrack,no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+55106,Sheffield,YKS,Strafforth,no usable figure,3,hides or carucates (2.5) x the county median of 1.14 households per unit
+55141,Shelf,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+55611,Shipley,YKS,Morley,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+55621,Shippen [House],YKS,Skyrack,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+55646,Shipton,YKS,{Bolesford} [Bulmer],no usable figure,3,the lower quartile of the households of 43 vills in {Bolesford} [Bulmer] hundred
+56056,Sicklinghall,YKS,`Burghshire' [Claro],no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+56151,Silsden,YKS,Craven,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+56206,Sinderby,YKS,Land of Count Alan,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+56241,Sinnington,YKS,{Maneshou} [Ryedale],"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+56276,Skeeby,YKS,Land of Count Alan,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+56376,Skewsby,YKS,{Bolesford} [Bulmer],"waste, nobody counted",6,"dwellings left empty, from value in 1066 (360) x the county median of 0.02 households per unit"
+56541,Sledmere,YKS,`Thorshowe',"waste, nobody counted",7,"dwellings left empty, from ploughlands (5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+21336,South Duffield,YKS,Howden,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+57236,Southcoates,YKS,Holderness,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (180) x the county median of 0.02 households per unit"
+57606,Sproxton,YKS,{Maneshou} [Ryedale],no usable figure,3,"ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+57631,Stackhouse,YKS,Craven,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+57681,Stainburn,YKS,`Burghshire' [Claro],no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+57726,Stainland,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+57896,Stancil,YKS,Strafforth,no usable figure,6,the lower quartile of the households of 79 vills in Strafforth hundred
+58461,Startforth,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (144) x the county median of 0.02 households per unit"
+58846,Stiltons [Farm],YKS,{Maneshou} [Ryedale],"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+58906,Stock,YKS,Craven,no usable figure,5,hides or carucates (4) x the county median of 1.14 households per unit
+59026,Stockton [on the Forest],YKS,{Bolesford} [Bulmer],"waste, nobody counted",6,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit, capped at the median vill of its hundred (6)"
+59961,Strensall,YKS,{Bolesford} [Bulmer],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+60086,Strickland [Roger],YKS,Amounderness,no usable figure,7,"hides or carucates (20) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+60131,Stub House,YKS,Skyrack,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+60191,Studley [Royal],YKS,`Burghshire' [Claro],"waste, nobody counted",4,"dwellings left empty, from ploughlands (1.5) x the county median of 2.50 households per unit"
+60651,Sutton,YKS,Craven,no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+61086,Swaythorpe,YKS,Burton,"waste, nobody counted",7,"dwellings left empty, from ploughlands (9) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+61121,Swetton,YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+61146,Swinden,YKS,Craven,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (13.5) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+61221,Swinton,YKS,{Maneshou} [Ryedale],no usable figure,3,"ploughlands (5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+62076,Theakston,YKS,Land of Count Alan,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+62281,Thoralby,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+62286,Thoralby [Hall],YKS,Acklam,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+62396,Thornborough,YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+62571,Thornthorpe,YKS,Acklam,no usable figure,2,hides or carucates (1.75) x the county median of 1.14 households per unit
+62601,Thornton,YKS,Cave,"waste, nobody counted",8,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit"
+62641,Thornton [Fields],YKS,Langbargh,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+62691,Thornton [Riseborough],YKS,{Maneshou} [Ryedale],no usable figure,3,"ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+62696,Thornton [Rust],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+62651,Thornton [in Craven],YKS,Craven,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (7.25) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+62656,Thornton [in Lonsdale],YKS,Amounderness,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+62676,Thornton [le Moor],YKS,Allerton,"waste, nobody counted",6,"dwellings left empty, from hides or carucates (5) x the county median of 1.14 households per unit"
+62726,Thorp [Perrow],YKS,Land of Count Alan,"waste, nobody counted",5,"dwellings left empty, from hides or carucates (4) x the county median of 1.14 households per unit"
+62806,Thorpe [Bassett],YKS,{Scard},no usable figure,8,ploughlands (3) x the county median of 2.50 households per unit
+62881,Thorpe [Hall],YKS,Burton,no usable figure,4,the lower quartile of the households of 638 vills in Yorkshire
+62891,Thorpe [Hesley],YKS,Strafforth,no usable figure,6,the lower quartile of the households of 79 vills in Strafforth hundred
+62896,Thorpe [Hill],YKS,`Burghshire' [Claro],no usable figure,2,value in 1086 (60) x the county median of 0.03 households per unit
+63181,Thorpe [Underwood],YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+62966,Thorpe [le Street],YKS,Pocklington,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+62971,Thorpe [le Willows],YKS,{Gerlestre} [Birdforth],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+63206,Thorpe[field],YKS,{Gerlestre} [Birdforth],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+63431,Thurgoland,YKS,Staincross,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+63496,Thurlstone,YKS,Staincross,"waste, nobody counted",5,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (5)"
+63586,Thurstonland,YKS,Agbrigg,no usable figure,7,the lower quartile of the households of 12 vills in Agbrigg hundred
+64071,Tocketts [Farm],YKS,Langbargh,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (64) x the county median of 0.02 households per unit"
+64231,Tollesby,YKS,Langbargh,"waste, nobody counted",6,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+64266,Tong,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+64516,Totley,YKS,Scarsdale,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+64606,Towthorpe,YKS,{Bolesford} [Bulmer],"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+64621,Towton,YKS,Barkston Ash,no usable figure,5,the lower quartile of the households of 22 vills in Barkston Ash hundred
+65321,Troutsdale,YKS,{Dic} [Pickering Lythe],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+65531,Tunstall [Farm],YKS,Langbargh,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+65981,Ughill,YKS,Strafforth,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+65991,Ugthorpe,YKS,Langbargh,no usable figure,6,"ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+66051,Ulley,YKS,Strafforth,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+66111,Ulverston,YKS,Amounderness,no usable figure,7,"hides or carucates (8.333) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+66231,Upsall [Hall],YKS,Langbargh,no usable figure,4,ploughlands (1.5) x the county median of 2.50 households per unit
+66236,Upsland,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+66421,Utley,YKS,Craven,no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+67081,Walton,YKS,Agbrigg,no usable figure,7,the lower quartile of the households of 12 vills in Agbrigg hundred
+67446,Warlaby,YKS,Land of Count Alan,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+67791,Wath,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+67926,Weardley,YKS,Skyrack,"waste, nobody counted",5,"dwellings left empty, from value in 1066 (300) x the county median of 0.02 households per unit"
+68141,Welbury,YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+69201,Wetwang,YKS,Warter,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (960) x the county median of 0.02 households per unit, capped at the median vill of its hundred (3)"
+69296,Wharram [Percy],YKS,Acklam,no usable figure,10,"ploughlands (4.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (10)"
+69291,Wharram [le Street],YKS,{Scard},"waste, nobody counted",16,"dwellings left empty, from value in 1066 (1200) x the county median of 0.02 households per unit, capped at the median vill of its hundred (15.5)"
+69431,Whenby,YKS,{Bolesford} [Bulmer],no usable figure,3,the lower quartile of the households of 43 vills in {Bolesford} [Bulmer] hundred
+69856,Whittington,YKS,Amounderness,no usable figure,7,"hides or carucates (54) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+69921,Whitwell [on the Hill],YKS,{Bolesford} [Bulmer],no usable figure,2,value in 1086 (56) x the county median of 0.03 households per unit
+70061,Wickersley,YKS,Strafforth,"waste, nobody counted",8,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit"
+70171,Widdington [Hall],YKS,`Burghshire' [Claro],"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+70236,Wiganthorpe [Hall],YKS,{Bolesford} [Bulmer],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+70281,Wigginton,YKS,{Bolesford} [Bulmer],"waste, nobody counted",1,"dwellings left empty, from hides or carucates (0.5) x the county median of 1.14 households per unit"
+70366,Wike,YKS,Skyrack,no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+70501,Willerby,YKS,Hessle,no usable figure,2,the lower quartile of the households of 11 vills in Hessle hundred
+70781,Wilsden,YKS,Morley,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+71136,Winksley,YKS,`Burghshire' [Claro],no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+71391,Winterburn,YKS,Craven,no usable figure,7,"hides or carucates (17) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+71436,Winton,YKS,Allerton,"waste, nobody counted",7,"dwellings left empty, from ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+72026,Wombleton,YKS,{Maneshou} [Ryedale],no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+72356,Wooldale,YKS,Agbrigg,no usable figure,7,the lower quartile of the households of 12 vills in Agbrigg hundred
+72966,Worton,YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from value in 1066 (192) x the county median of 0.02 households per unit"
+72981,Wothersome,YKS,Skyrack,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+73306,Wyke,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+73321,Wykeham,YKS,{Maneshou} [Ryedale],no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+73486,Yafforth,YKS,Land of Count Alan,no usable figure,9,"hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (9)"
+73511,Yapham,YKS,Warter,no usable figure,3,"ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+73576,Yarm,YKS,Allerton,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+73616,Yarnwick,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+73706,Yeadon,YKS,Skyrack,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+45491,[Bank] Newton,YKS,Craven,no usable figure,7,"hides or carucates (8.5) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+31521,[Bridge] Hewick,YKS,Halikeld,no usable figure,3,hides or carucates (3) x the county median of 1.14 households per unit
+8046,[Castle] Bolton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+38356,[Castle] Leavington,YKS,Allerton,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+1121,[Chapel] Allerton,YKS,Skyrack,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (5.5)"
+15896,[Cleck]heaton,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+31636,[Cold] Hiendley,YKS,Staincross,"waste, nobody counted",5,"dwellings left empty, from hides or carucates (7) x the county median of 1.14 households per unit, capped at the median vill of its hundred (5)"
+1976,[East] Appleton,YKS,Land of Count Alan,no usable figure,5,plough teams (2) x the county median of 2.60 households per unit
+2056,[East] Ardsley,YKS,Morley,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+13181,[East] Carlton,YKS,Skyrack,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+18231,[East] Cowton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+29646,[East] Harlsey,YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+30326,[East] Hauxwell,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+35756,[East] Keswick,YKS,Skyrack,no usable figure,6,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (5.5)"
+52716,[East] Rounton,YKS,Langbargh,no usable figure,6,"ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+61491,[East] Tanfield,YKS,Land of Count Alan,no usable figure,2,value in 1086 (60) x the county median of 0.03 households per unit
+30931,[Gate] Helmsley,YKS,{Bolesford} [Bulmer],no usable figure,5,hides or carucates (4.25) x the county median of 1.14 households per unit
+3616,[Great] Ayton,YKS,Langbargh,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+10786,[Great] Broughton,YKS,Langbargh,"waste, nobody counted",6,"dwellings left empty, from ploughlands (3.25) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+22641,[Great] Edstone,YKS,{Maneshou} [Ryedale],"waste, nobody counted",3,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+37751,[Great] Langton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (264) x the county median of 0.02 households per unit"
+47621,[Great] Ouseburn,YKS,`Burghshire' [Claro],no usable figure,6,"ploughlands (6) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+56631,[Great] Smeaton,YKS,Land of Count Alan,"waste, nobody counted",9,"dwellings left empty, from hides or carucates (8) x the county median of 1.14 households per unit, capped at the median vill of its hundred (9)"
+27891,[Hanging] Grimston,YKS,Acklam,"waste, nobody counted",10,"dwellings left empty, from hides or carucates (8.5) x the county median of 1.14 households per unit"
+30756,[Hanging] Heaton,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+33786,[High] Hoyland,YKS,Staincross,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+72831,[High] Worsall,YKS,Allerton,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+34791,[Ing]birchworth,YKS,Staincross,"waste, nobody counted",5,"dwellings left empty, from value in 1066 (480) x the county median of 0.02 households per unit, capped at the median vill of its hundred (5)"
+35811,[Kettle]thorpe,YKS,Cave,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (360) x the county median of 0.02 households per unit"
+62946,[Kilton] Thorpe,YKS,Langbargh,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+28861,[Kirk] Hammerton,YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (6) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+38361,[Kirk] Leavington,YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+36771,[Kirk]heaton,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+22646,[Little] Edstone,YKS,{Maneshou} [Ryedale],"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+26841,[Little] Givendale,YKS,Warter,no usable figure,2,the lower quartile of the households of 5 vills in Warter hundred
+33621,[Little] Houghton,YKS,Strafforth,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+35376,[Little] Kelk,YKS,{Turbar},no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+37761,[Little] Langton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+43806,[Little] Moorsholm,YKS,Langbargh,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+50236,[Long] Preston,YKS,Craven,no usable figure,7,"hides or carucates (14.5) x the county median of 1.14 households per unit, capped at the median vill of its hundred (7.1665)"
+13716,[Low] Caythorpe,YKS,Burton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+19441,[Low] Dalby,YKS,{Dic} [Pickering Lythe],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+44301,[Low] Mowthorpe [Farm],YKS,{Bolesford} [Bulmer],no usable figure,3,the lower quartile of the households of 43 vills in {Bolesford} [Bulmer] hundred
+72836,[Low] Worsall,YKS,Allerton,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+42791,[Middle]thorpe,YKS,Ainsty,"waste, nobody counted",4,"dwellings left empty, from ploughlands (1.5) x the county median of 2.50 households per unit"
+9761,[Monk] Bretton,YKS,Staincross,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+44386,[Mul]grave [Castle],YKS,Langbargh,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+56166,[Nether] Silton,YKS,Allerton,no usable figure,4,the lower quartile of the households of 638 vills in Yorkshire
+6781,[North] Bierley,YKS,Morley,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+32646,[North] Holme [House],YKS,{Maneshou} [Ryedale],"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+46056,[North]owram,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+39296,[Old] Lindley,YKS,Morley,no usable figure,1,hides or carucates (0.5) x the county median of 1.14 households per unit
+60476,[Old] Sunderlandwick,YKS,Driffield,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+20376,[Over] Dinsdale [Grange],YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+56171,[Over] Silton,YKS,Allerton,no usable figure,4,ploughlands (1.5) x the county median of 2.50 households per unit
+48066,[Pains]thorpe,YKS,Acklam,"waste, nobody counted",6,"dwellings left empty, from ploughlands (2.5) x the county median of 2.50 households per unit"
+49286,[Pinchin]thorpe [Hall],YKS,Langbargh,"waste, nobody counted",4,"dwellings left empty, from ploughlands (1.5) x the county median of 2.50 households per unit"
+52696,[Rough]birchworth,YKS,Staincross,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+18856,[South] Crosland,YKS,Agbrigg,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+47541,[South] Otterington,YKS,Allerton,no usable figure,7,"ploughlands (3) x the county median of 2.50 households per unit, capped at the median vill of its hundred (7.1665)"
+57306,[South]owram,YKS,Morley,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+19231,[Upper] Cumberworth,YKS,Staincross,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (72) x the county median of 0.02 households per unit"
+19946,[Upper] Denby,YKS,Agbrigg,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+33126,[Upper] Hopton,YKS,Agbrigg,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (72) x the county median of 0.02 households per unit"
+2061,[West] Ardsley,YKS,Morley,no usable figure,4,the lower quartile of the households of 9 vills in Morley hundred
+8076,[West] Bolton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+12116,[West] Burton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+13246,[West] Carlton,YKS,Holderness,no usable figure,3,plough teams (1) x the county median of 2.60 households per unit
+17971,[West] Cottingwith,YKS,Howden,"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+30331,[West] Hauxwell,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+31406,[West] Heslerton,YKS,`Thorshowe',"waste, nobody counted",6,"dwellings left empty, from ploughlands (2.5) x the county median of 2.50 households per unit"
+45711,[West] Newton,YKS,Holderness,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+45716,[West] Newton [Grange],YKS,{Maneshou} [Ryedale],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+54396,[West] Scrafton,YKS,Land of Count Alan,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+45726,[Wold] Newton,YKS,{Turbar},no usable figure,10,"ploughlands (5.5) x the county median of 2.50 households per unit, capped at the median vill of its hundred (10)"
+17571,`Corburn',YKS,{Bolesford} [Bulmer],"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+21791,`Earby',YKS,Craven,no usable figure,3,hides or carucates (2.75) x the county median of 1.14 households per unit
+23206,`Elsworth',YKS,`Burghshire' [Claro],no usable figure,3,the lower quartile of the households of 39 vills in `Burghshire' [Claro] hundred
+29136,`Hangton',YKS,Langbargh,no usable figure,5,hides or carucates (4.312) x the county median of 1.14 households per unit
+34861,`Inglethwaite',YKS,{Bolesford} [Bulmer],"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+35816,`Kettlethorpe',YKS,{Dic} [Pickering Lythe],no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+40091,`Lonsdale',YKS,Amounderness,no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+41051,`Malkton',YKS,Ainsty,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+45276,`Newsham',YKS,Osgoldcross,"waste, nobody counted",12,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit"
+57786,`Stainton',YKS,Langbargh,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (2.6) x the county median of 1.14 households per unit"
+61056,`Swarthorpe',YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+63201,`Thorpe[field]',YKS,{Dic} [Pickering Lythe],"waste, nobody counted",2,"dwellings left empty, from value in 1066 (96) x the county median of 0.02 households per unit"
+41511,`[Little] Marish',YKS,{Dic} [Pickering Lythe],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+3336,another Auckley,YKS,Strafforth,no usable figure,6,the lower quartile of the households of 79 vills in Strafforth hundred
+19516,another Dalton,YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+36606,another Kirby [Misperton],YKS,{Maneshou} [Ryedale],"waste, nobody counted",3,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit, capped at the median vill of its hundred (3)"
+38351,another Leavening,YKS,Acklam,no usable figure,4,the lower quartile of the households of 9 vills in Acklam hundred
+62206,another Thirkleby [Manor],YKS,`Thorshowe',"waste, nobody counted",5,"dwellings left empty, from hides or carucates (4) x the county median of 1.14 households per unit"
+2206,{Arnodestorp},YKS,Langbargh,no usable figure,1,hides or carucates (1.25) x the county median of 1.14 households per unit
+2261,{Ascam},YKS,Land of Count Alan,no usable figure,6,hides or carucates (5) x the county median of 1.14 households per unit
+2266,{Ascham},YKS,Land of Count Alan,no usable figure,5,the lower quartile of the households of 64 vills in Land of Count Alan hundred
+2276,{Aschelesmersc},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+2296,{Asebi},YKS,Land of Count Alan,"waste, nobody counted",5,"dwellings left empty, from hides or carucates (4) x the county median of 1.14 households per unit"
+4951,{Baschebi},YKS,{Dic} [Pickering Lythe],no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+4956,{Baschesbi},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+6216,{Bergebi},YKS,{Gerlestre} [Birdforth],no usable figure,3,the lower quartile of the households of 20 vills in {Gerlestre} [Birdforth] hundred
+6221,{Berghebi},YKS,{Gerlestre} [Birdforth],"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+6246,{Bergolbi},YKS,Langbargh,no usable figure,4,hides or carucates (3.25) x the county median of 1.14 households per unit
+6251,{Berguluesbi},YKS,Langbargh,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+6321,{Bernebi},YKS,{Gerlestre} [Birdforth],"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+6596,{Bicherun},YKS,Skyrack,no usable figure,3,the lower quartile of the households of 14 vills in Skyrack hundred
+7331,{Bithen},YKS,Ainsty,no usable figure,5,the lower quartile of the households of 30 vills in Ainsty hundred
+12486,{Cadretone},YKS,`Burghshire' [Claro],no usable figure,1,hides or carucates (0.5) x the county median of 1.14 households per unit
+12661,{Caldeuuelle},YKS,`Burghshire' [Claro],no usable figure,3,the lower quartile of the households of 39 vills in `Burghshire' [Claro] hundred
+14576,{Chenecol},YKS,Holderness,"waste, nobody counted",2,"dwellings left empty, from value in 1066 (120) x the county median of 0.02 households per unit"
+14581,{Chenucol},YKS,Holderness,no usable figure,4,the lower quartile of the households of 55 vills in Holderness hundred
+14586,{Chenuthesholm},YKS,Holderness,no usable figure,4,the lower quartile of the households of 55 vills in Holderness hundred
+14756,{Chetelestorp},YKS,Hessle,"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+14906,{Chigomersc},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+15136,{Chiluesmersc},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+15421,{Chrachetorp},YKS,Hessle,"waste, nobody counted",5,"dwellings left empty, from ploughlands (2) x the county median of 2.50 households per unit"
+18271,{Crachetorp},YKS,Hessle,no usable figure,2,the lower quartile of the households of 11 vills in Hessle hundred
+18286,{Cradeuuelle},YKS,`Burghshire' [Claro],no usable figure,2,value in 1086 (64) x the county median of 0.03 households per unit
+20076,{Dentone},YKS,Land of Count Alan,no usable figure,1,value in 1066 (60) x the county median of 0.02 households per unit
+20071,{Denton},YKS,Land of Count Alan,no usable figure,5,the lower quartile of the households of 64 vills in Land of Count Alan hundred
+20236,{Diche},YKS,{Bolesford} [Bulmer],no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+20231,{Dic},YKS,{Bolesford} [Bulmer],no usable figure,3,the lower quartile of the households of 43 vills in {Bolesford} [Bulmer] hundred
+22791,{Eldeberge},YKS,Strafforth,no usable figure,6,the lower quartile of the households of 79 vills in Strafforth hundred
+23646,{Estolf},YKS,{Turbar},no usable figure,4,the lower quartile of the households of 6 vills in {Turbar} hundred
+23661,{Estone},YKS,Skyrack,no usable figure,3,the lower quartile of the households of 14 vills in Skyrack hundred
+25466,{Fornetorp},YKS,Burton,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+26676,{Ghigogesmersc},YKS,{Dic} [Pickering Lythe],"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1.25) x the county median of 1.14 households per unit"
+27791,{Grimesbi},YKS,Langbargh,"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+31491,{Heuuorde},YKS,Craven,"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+31496,{Heuurde},YKS,Craven,no usable figure,1,hides or carucates (1) x the county median of 1.14 households per unit
+32446,{Holedene},YKS,Craven,no usable figure,7,hides or carucates (6) x the county median of 1.14 households per unit
+33166,{Horebodebi},YKS,{Gerlestre} [Birdforth],"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+33171,{Horenbodebi},YKS,{Gerlestre} [Birdforth],"waste, nobody counted",3,"dwellings left empty, from hides or carucates (2.25) x the county median of 1.14 households per unit"
+33976,{Hunchilhuses},YKS,Barkston Ash,no usable figure,5,the lower quartile of the households of 22 vills in Barkston Ash hundred
+33971,{Hunchilhuse},YKS,Barkston Ash,"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+34431,{Ianulfestorp},YKS,{Sneculfcros},"waste, nobody counted",2,"dwellings left empty, from hides or carucates (2) x the county median of 1.14 households per unit"
+39146,{Liedtorp},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+40631,{Luuetotholm},YKS,Holderness,no usable figure,4,the lower quartile of the households of 55 vills in Holderness hundred
+42126,{Maxudesmersc},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+44146,{Mortune},YKS,Skyrack,no usable figure,5,ploughlands (2) x the county median of 2.50 households per unit
+44141,{Mortun},YKS,{Bolesford} [Bulmer],"waste, nobody counted",2,"dwellings left empty, from hides or carucates (1.5) x the county median of 1.14 households per unit"
+44371,{Mulede},YKS,Ainsty,"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+44376,{Mulehale},YKS,Ainsty,no usable figure,5,the lower quartile of the households of 30 vills in Ainsty hundred
+44381,{Mulhede},YKS,Ainsty,no usable figure,5,the lower quartile of the households of 30 vills in Ainsty hundred
+44981,{Neuhuse},YKS,Barkston Ash,no usable figure,5,the lower quartile of the households of 22 vills in Barkston Ash hundred
+44986,{Neuson},YKS,{Sneculfcros},"waste, nobody counted",1,"dwellings left empty, from hides or carucates (1) x the county median of 1.14 households per unit"
+44991,{Neutone},YKS,Land of Count Alan,"waste, nobody counted",7,"dwellings left empty, from hides or carucates (6) x the county median of 1.14 households per unit"
+45131,{Newhall},YKS,Skyrack,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit
+45766,{Niuuehusum},YKS,Barkston Ash,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+45891,{Normanebi},YKS,Land of Count Alan,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+47126,{Opetune},YKS,Land of Count Alan,no usable figure,5,the lower quartile of the households of 64 vills in Land of Count Alan hundred
+47586,{Ouduluesmersc},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+48921,{Persene},YKS,{Sneculfcros},no usable figure,1,hides or carucates (0.75) x the county median of 1.14 households per unit
+49766,{Popletone},YKS,`Burghshire' [Claro],"waste, nobody counted",6,"dwellings left empty, from ploughlands (4) x the county median of 2.50 households per unit, capped at the median vill of its hundred (6)"
+52676,{Roudeluestorp},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+53331,{Sactun},YKS,Staincross,no usable figure,4,the lower quartile of the households of 23 vills in Staincross hundred
+53546,{Salescale},YKS,{Maneshou} [Ryedale],no usable figure,3,the lower quartile of the households of 24 vills in {Maneshou} [Ryedale] hundred
+54036,{Saxehale},YKS,Barkston Ash,no usable figure,5,the lower quartile of the households of 22 vills in Barkston Ash hundred
+54041,{Saxhale},YKS,Barkston Ash,no usable figure,5,the lower quartile of the households of 22 vills in Barkston Ash hundred
+54046,{Saxhalla},YKS,Barkston Ash,"waste, nobody counted",4,"dwellings left empty, from value in 1066 (240) x the county median of 0.02 households per unit"
+54171,{Scardiztorp},YKS,Acklam,no usable figure,4,the lower quartile of the households of 9 vills in Acklam hundred
+54266,{Scloftone},YKS,{Turbar},no usable figure,4,the lower quartile of the households of 6 vills in {Turbar} hundred
+54811,{Seuenetorp},YKS,Land of Count Alan,"waste, nobody counted",3,"dwellings left empty, from hides or carucates (3) x the county median of 1.14 households per unit"
+56811,{Snitertun},YKS,Skyrack,"waste, nobody counted",6,"dwellings left empty, from value in 1066 (720) x the county median of 0.02 households per unit, capped at the median vill of its hundred (5.5)"
+58661,{Steintorp},YKS,{Sneculfcros},no usable figure,4,the lower quartile of the households of 16 vills in {Sneculfcros} hundred
+58676,{Stemainesbi},YKS,{Dic} [Pickering Lythe],no usable figure,6,the lower quartile of the households of 13 vills in {Dic} [Pickering Lythe] hundred
+58681,{Stemanesbi},YKS,{Dic} [Pickering Lythe],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+60366,{Sudcniton},YKS,Acklam,no usable figure,4,the lower quartile of the households of 9 vills in Acklam hundred
+60541,{Suthauuic},YKS,Halikeld,no usable figure,4,the lower quartile of the households of 9 vills in Halikeld hundred
+64401,{Torpi},YKS,Weighton,no usable figure,5,the lower quartile of the households of 7 vills in Weighton hundred
+64386,{Torp},YKS,Land of Count Alan,"waste, nobody counted",1,"dwellings left empty, from value in 1066 (60) x the county median of 0.02 households per unit"
+64391,{Torp},YKS,{Sneculfcros},"waste, nobody counted",1,"dwellings left empty, from ploughlands (0.5) x the county median of 2.50 households per unit"
+64411,{Torp},YKS,Driffield,no usable figure,3,ploughlands (1) x the county median of 2.50 households per unit
+67611,{Waruelestorp},YKS,{Bolesford} [Bulmer],no usable figure,2,hides or carucates (2) x the county median of 1.14 households per unit
+63126,{[Scotton] Thorpe},YKS,`Burghshire' [Claro],"waste, nobody counted",3,"dwellings left empty, from ploughlands (1) x the county median of 2.50 households per unit"
+66721,{[Walder]shelf},YKS,Strafforth,no usable figure,1,ploughlands (0.5) x the county median of 2.50 households per unit

@@ -1,0 +1,19 @@
+<!doctype html><html><head><meta charset="utf-8"><title>legend</title>
+<style>body{margin:0;background:#F6EED8;font:15px Georgia,serif;color:#2B2119}#o{display:grid;grid-template-columns:repeat(var(--cols,2),1fr);gap:6px 22px;padding:16px;width:var(--w,700px)}
+.i{display:flex;align-items:center;gap:12px;min-height:46px}.i canvas{flex:none;height:42px;width:auto;max-width:78px}</style></head>
+<body><div id="o"></div>
+<script src="../js/ink-palette.js"></script><script src="../js/ink-icons.js"></script><script src="../js/ink-1086.js"></script>
+<script>
+const qs = new URLSearchParams(location.search);
+const L = [['dh-l0','Villager’s longhouse (one per household)'],['dh-c0','Cottage of a smallholder, cottager or slave'],['dh-b0','Burgess’s house in a borough'],['dh-w1','Wasted or empty dwelling'],
+ ['dh-hall','The lord’s hall'],['dch-wood','Timber church'],['dch-stone','Stone church'],['dch-cathedral','Cathedral'],['dabbey','Religious house'],['dcastle-m','Motte-and-bailey castle'],
+ ['dmill-l','Watermill (one per mill recorded)'],['dfish','Fishery: eel weir'],['dsalt','Salt-pans and boiling hearth'],['dvine','Vineyard'],['da-plough','Plough team of eight oxen'],
+ ['da-sheep','Sheep (one flock per 20)'],['da-pigwood','Swine at pannage in the wood'],['da-cattle','Cattle (one per 5)'],['dwaste','A vill laid waste'],['dv-3c','A vill far out: huts to its size'],
+ ['dh-e0','Estimated dwelling: no usable figure (not in totals)'],['dh-x0','Estimated empty dwelling in a waste vill'],['dch-minster','Minster church'],['dcastle-k','Stone keep (documented by 1086)'],
+ ['dmarket','Market'],['dsalt-w','Brine pit at an inland wich'],['dpark','Park for woodland beasts'],['dhaia','Haia: hedged deer enclosure'],['walltower','Borough wall and tower'],
+ ['dv-unsurveyed','London and Winchester: not surveyed, houses estimated'],['rf1','Open fields in ridge and furrow'],['mdw86','Meadow by the stream'],['wdp','Woodland from Domesday’s measures'],['mrs','Fen and marsh (approximate)']];
+document.documentElement.style.setProperty('--cols', qs.get('cols') || 2); document.documentElement.style.setProperty('--w', (qs.get('w') || 700) + 'px');
+const o = document.getElementById('o');
+for (const [id, t] of L) { const c = InkIcons.draw(id); if (!c) continue; const d = document.createElement('div'); d.className = 'i'; d.appendChild(c); const s = document.createElement('span'); s.textContent = t; d.appendChild(s); o.appendChild(d); }
+document.title = 'done';
+</script></body></html>

@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8"><title>1086 sprites</title>
+<style>body{background:#F1E2BA;font:11px serif;margin:8px}div.s{display:inline-block;margin:6px;text-align:center;vertical-align:bottom}canvas{display:block;margin:auto;image-rendering:auto}</style></head>
+<body><div id="o"></div>
+<script src="../js/ink-palette.js"></script><script src="../js/ink-icons.js"></script><script src="../js/ink-houses.js"></script><script src="../js/ink-1086.js"></script>
+<script>
+const Z = +(new URLSearchParams(location.search).get('z') || 3);
+const o = document.getElementById('o');
+for (const id of Object.keys(Ink1086.DEFS)) {
+  const c = InkIcons.draw(id); if (!c) continue;
+  const d = document.createElement('div'); d.className = 's';
+  const k = Z / (c.width / (Ink1086.DEFS[id][0] * 1.5));
+  c.style.width = (c.width / 1.5 * Z / 1) + 'px'; c.style.height = (c.height / 1.5 * Z) + 'px';
+  d.appendChild(c); d.appendChild(document.createTextNode(id)); o.appendChild(d);
+}
+document.title = 'done';
+</script></body></html>
