@@ -1,0 +1,101 @@
+<!-- wp:paragraph -->
+<p><em>What if the map in the front of a fantasy novel were real, and every village on it came from Domesday Book? I drew England in 1086 that way: one little house for every household the survey counted, a water wheel for every mill, a plough team for every team of oxen.</em></p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/domesday-world/">Explore the interactive version</a></div>
+<!-- /wp:button --><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24045206">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph -->
+<p>In 1086 William the Conqueror's commissioners rode round England asking the same questions of every vill: who held it, how many people and ploughs it had, its mills, meadow and woodland, and what it was worth. The answers became Domesday Book. Hull's Domesday Project turned them into a database, and it is extraordinarily detailed: 22,571 entries, 14,334 places, 273,962 households.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>I have spent a while making a map engine that draws the real world like a hand-inked fantasy map, with little mountains, rippled coasts and red lettering. For this map I took everything modern out of it and drew Domesday back in. There are no roads but the Roman ones, no names but Domesday's, and nothing on the land that the survey does not record.</p>
+<!-- /wp:paragraph -->
+{{IMG|b_england.png|Hand-inked map of England in 1086: small glyphs of huts for each Domesday vill scattered across the country, woods in green, the Fens as marsh, Roman roads as faint tracks and shires lettered in red|England in 1086, each vill a few huts sized to its households.}}
+<!-- wp:heading -->
+<h2 class="wp-block-heading">One house for every household</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Zoom in and every vill fills with houses: one for each household Domesday counts, so 260,042 in all. Villagers get longhouses, smallholders and cottagers small cottages, burgesses town houses. The lord's hall sits in its fenced court, the church at the centre if the entry mentions one. A hamlet of three households is three huts. That is the point: most vills were tiny. The median counted 16 households and 31% had fewer than ten.</p>
+<!-- /wp:paragraph -->
+{{IMG|b_sizes.png|Bar chart of places by number of households in 1086, most between 5 and 30 households, very few above 100|Most vills counted fewer than 25 households.}}
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Towns, and the empty houses</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>The towns are where Domesday turns dramatic. It counts their houses in its own way, often with the empty ones. Lincoln had "970 inhabited messuages before 1066"; "166 were destroyed because of the castle" and "760 are now inhabited". Oxford had "243 houses which pay tax" and "500 houses less 22 so derelict and destroyed that they cannot pay tax". So the map draws them as Domesday tells it, with the empty houses roofless: 3,191 of them across 73 boroughs.</p>
+<!-- /wp:paragraph -->
+{{IMG|b_york.png|Close view of York in 1086: small thatched houses packed along the streets inside the line of the city walls, the Ouse running through, a minster, castle and abbey, and pale roofless houses among them|York, packed inside the line of its walls: many of its houses stood empty in 1086.}}
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Filling the gaps, carefully</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Some places Domesday names give no usable figure for people: an entry with ploughs or a value but nobody counted, a vill called waste, and the two great towns the survey left out, London and Winchester. Drawn literally they would be blank, which is not true either. So they get estimated houses, drawn pale with dotted outlines (or pale and roofless in a waste vill), and the popup says how each was worked out. The rule is cautious: the place's ploughs, ploughlands, value or hides times the county's usual households per unit, never more than the typical vill of its hundred. For London and Winchester I took the low end of historians' estimates of their people around 1100, about 10,000 and 5,000, at 4.5 people a house. In all 9,237 houses at 1,178 places are estimated, and none of them is counted in any total I quote.</p>
+<!-- /wp:paragraph -->
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>A hamlet of three households is three huts. A village of sixty with a church and two mills is sixty houses, a church and two wheels on the stream.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Mills on their streams</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Domesday records about six thousand mills, often in halves and thirds shared between manors. Each one gets a timber mill house with a big undershot wheel, set on the nearest stream or river to its vill, and the wheels turn when you are close in. Where today's map has no stream within 1.5 km I would rather leave a mill out than put it on dry land, so 5,408 of 5,679 are drawn.</p>
+<!-- /wp:paragraph -->
+{{IMG|b_mills.png|Close view of Alresford in Hampshire: thatched cottages scattered along the River Alre with several watermills, each a timber house with a large wheel in the stream|Alresford: its mills on the River Alre.}}
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Ploughs, sheep and pigs</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Around each village lie its lands, and on them what Domesday counts: 71,419 plough teams of eight oxen, flocks of sheep, pigs, cattle, goats, cobs, wild mares and bee skeps, spread over the fields and pasture nearer to that vill than to any other. The catch is honest and interesting: Domesday only counts livestock in a few counties. Little Domesday, for Essex, Norfolk and Suffolk, holds 49% of the 252,644 sheep recorded, so East Anglia is full of flocks and the Midlands look empty. They were not; nobody counted them.</p>
+<!-- /wp:paragraph -->
+{{IMG|b_suffolk.png|Close view of Desning in Suffolk: a cluster of houses with a church, five watermills along a stream and many plough teams and small flocks across the surrounding fields|Desning, Suffolk: five mills, plough teams and flocks.}}
+{{IMG|b_droitwich.png|Close view of Droitwich: a cluster of houses with brine pits and salt hearths around it|Droitwich and its salt.}}
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Woods, fens and the waste</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Woodland is drawn where Domesday measures it, in pigs or in leagues, about 4,378 square kilometres of it. The Fens, the Somerset Levels and the other great marshes are drawn from low ground, and Thanet is an island again. In the north, 520 Yorkshire entries call land waste after the Harrying of 1069 to 1070, and vills with nobody counted are drawn as burnt huddles.</p>
+<!-- /wp:paragraph -->
+{{IMG|b_fens.png|Medium view of the Fens around Ely: pale marsh with tufts, vills on the higher ground and fen edges, woods and rivers|The Fens and Ely.}}
+{{IMG|b_waste.png|View of Yorkshire with red rings marking vills Domesday calls waste, dense across the Vale of York and the uplands|Every vill Domesday calls waste, ringed in red.}}
+<!-- wp:paragraph -->
+<p>Beyond the survey, the north, Wales and Scotland are washed paler and lettered by hand. People lived there; Domesday just did not count them. Domesday Lancashire, around Clitheroe and the Ribble, is folded into Yorkshire and Cheshire and thinly recorded, and the map shows that honestly.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>The figures come from the Hull Domesday Project's database (CC BY-NC-SA), entry by entry through the realm-domesday repository, allocated to places as in my Domesday Destiny study so the totals match. Houses are laid out along today's village streets as a stand-in for the old ones (or along a lane or round a green of their own), packed inside the line of the walls in the walled towns, with open fields, meadow and wood around, and kept off the water using OpenStreetMap's water areas; mills are snapped to the nearest stream line. Livestock are drawn at one per 20 sheep, 10 pigs, 5 cattle and so on; woodland and marsh are drawing conventions, explained in the paper. The map itself is my Inked World engine with every modern layer removed. Click anything on the map and the popup says what the entry records and what is estimated.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/domesday-world/">Explore the interactive version</a></div>
+<!-- /wp:button --><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24045206">Read the paper</a></div>
+<!-- /wp:button --><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/domesday-world">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Notes and sources</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Domesday Book: Hull Domesday Project database and transcription of the Phillimore translation (J.J.N. Palmer, G. Slater and the University of Hull), CC BY-NC-SA, via the realm-domesday repository.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Companion studies: Domesday Destiny, Domesday mills, the Harrying of the North, Norman castles and Lost villages, at maps.tristanhotham.com.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Religious houses: English Monastic Archives (UCL); markets: Gazetteer of Markets and Fairs in England and Wales to 1516; both via the Mind Your Manors data set.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Roman roads: Itiner-e (de Soto et al. 2025), CC BY 4.0. Water and rivers: OpenStreetMap contributors via OpenFreeMap (ODbL). Elevation: AWS Terrain Tiles.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Darby, H. C. (1977) Domesday England. Cambridge University Press.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Estimates for London and Winchester: Brooke, C. and Keir, G. (1975) London 800 to 1216; Keene, D. (2000) in the Cambridge Urban History of Britain, vol. 1; Biddle, M. (ed.) (1976) Winchester in the Early Middle Ages.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
