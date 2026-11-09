@@ -572,7 +572,7 @@
       ['all', ['==', ['get', 't'], 1], ['>=', D, 40]], ['concat', 'dvt-', ['case', ['>=', D, 250], '9', '4'], ['case', ['==', ['get', 'c'], 1], 'c', '']],
       ['concat', 'dv-', ['to-string', ['step', D, 1, 5, 2, 10, 3, 20, 4, 40, 5, 80, 6]], ['case', ['==', ['get', 'c'], 1], 'c', '']]];
     const named = [];
-    named.push(M({ id: 'vill-glyphs', type: 'symbol', source: 'vills', maxzoom: 16, filter: ['all', ['any', ['>', D, 0], ['==', ['get', 'u'], 1]], ['<', ['zoom'], 11.7], ['>=', D, ['step', ['zoom'], 150, 5.5, 90, 6.5, 40, 7.5, 12, 8.5, 0]]],
+    named.push(M({ id: 'vill-glyphs', type: 'symbol', source: 'vills', maxzoom: 16, filter: ['all', ['any', ['>', D, 0], ['==', ['get', 'u'], 1]], ['<', ['zoom'], 11.7], ['>=', D, ['step', ['zoom'], 40, 5.5, 12, 6.5, 4, 7.5, 1, 8.5, 0]]],
       layout: { 'icon-image': GLYPH, 'icon-size': iz(5, ['case', ['==', ['get', 't'], 1], 0.6, 0.46], 7, ['case', ['==', ['get', 't'], 1], 0.8, 0.6], 9, ['case', ['==', ['get', 't'], 1], 1.05, 0.8], 11, ['case', ['==', ['get', 't'], 1], 1.3, 1.0], 14, ['case', ['==', ['get', 'u'], 1], 2.6, 1.2]),
         'icon-overlap': 'never', 'icon-padding': 0, 'symbol-sort-key': ['-', 0, D], 'icon-anchor': 'bottom' },
       paint: { 'icon-opacity': ['interpolate', ['linear'], ['zoom'], 5, 0.9, 10.8, 1, 11.6, 0] } }, 'vills'));
