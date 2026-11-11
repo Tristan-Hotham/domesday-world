@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "England in 1086, Drawn: Turning Domesday Book's Figures into a Hand-Inked Map of Every Vill"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24045206"
+url: "https://maps.tristanhotham.com/domesday-world/"
+repository-code: "https://github.com/Tristan-Hotham/domesday-world"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - "Domesday Book"
+  - "1086"
+  - "historical GIS"
+  - "medieval England"
+  - "mills"
+  - "settlement"
+  - "cartography"
+  - "fantasy map"
+  - "visualisation"
+  - "Hull Domesday Project"
